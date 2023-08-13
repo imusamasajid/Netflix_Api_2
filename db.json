@@ -1,2873 +1,2878 @@
 {
-  "action_movies": [
+  "movies": [
     {
-      "id": 80164399,
-      "Title": "Transformers: The Last Knight",
-      "Year": "2017",
-      "Rated": "13+",
-      "Season": "2h 35m",
-      "Creators": [
+      "action_movies": [
         {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Sci-Fi Movies, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Mark Wahlberg"
+          "id": 80164399,
+          "Title": "Transformers: The Last Knight",
+          "Year": "2017",
+          "Rated": "13+",
+          "Season": "2h 35m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Sci-Fi Movies, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Mark Wahlberg"
+            },
+            {
+              "id": 2,
+              "name": "Anthony Hopkins"
+            },
+            {
+              "id": 3,
+              "name": "Josh Duhamel"
+            },
+            {
+              "id": 4,
+              "name": "Laura Haddock"
+            },
+            {
+              "id": 5,
+              "name": "Stanley Tucci"
+            },
+            {
+              "id": 6,
+              "name": "John Turturro"
+            },
+            {
+              "id": 7,
+              "name": "Isabela Merced"
+            },
+            {
+              "id": 8,
+              "name": "Santiago Cabrera"
+            },
+            {
+              "id": 9,
+              "name": "Tony Hale"
+            },
+            {
+              "id": 10,
+              "name": "Liam Garrigan"
+            },
+            {
+              "id": 11,
+              "name": "Jerrod Carmichael"
+            },
+            {
+              "id": 12,
+              "name": "Mitch Pileggi"
+            }
+          ],
+          "Plot": "After Optimus Prime takes a dark turn, Cade Yeager joins forces with a group of Autobots to stop a villainous plot to destroy Earth.",
+          "Language": "English - Audio Description, English [Original], Hindi",
+          "Awards": "",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSb8bUZ2HUDRe7_S8_h0zahhodHe3KGoSImG5XxW8HPd8dboDjWa0rh5oTHRgtJkUXHtovz31j1dLWfZA5xfSqD9vOc_ZJTMwgbzMmhFRaNb.png?r=159"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXy69CxNf9CQyzgcb4stDDheiqMjUJECvocoCun6aC5eqeLG6EDpZT9zmlJxbsAOHrlkoBOJs3nhwwraVsYqLva5VVGel1_bWq2Q.jpg?r=88e"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVBGa1eYNQZ43v7JmN7k0ppwOTsRKYVp2-sUStAFeHrQuNHvHUWuZ9L3ASf2Z5mdcK2xdfimrzcfsWggADKJt_Mwh6vuye5F56OO.jpg?r=d6b"
+            }
+          ],
+          "video": [{ "link": "XLYAz6yuJOk" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://e1.pxfuel.com/desktop-wallpaper/976/998/desktop-wallpaper-3840x2160-2017-transformers-the-last-knight-movie-backgrounds-and-live-action-films.jpg",
+              "Title": "Trailer: Transformers: The Last Knight",
+              "Link": "6Vtf0MszgP8"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         },
         {
-          "id": 2,
-          "name": "Anthony Hopkins"
+          "id": 81633804,
+          "Title": "Mission Majnu",
+          "Year": "2023",
+          "Rated": "16+",
+          "Season": "2h 9m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Indian, Hindi-Language Movies, Bollywood Movies, Military Movies, Action & Adventure Movies, Spy Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Sidharth Malhotra"
+            },
+            {
+              "id": 2,
+              "name": "Kumud Mishra"
+            },
+            {
+              "id": 3,
+              "name": "Rashmika Mandanna"
+            },
+            {
+              "id": 4,
+              "name": "Parmeet Sethi"
+            },
+            {
+              "id": 5,
+              "name": "Sharib Hashmi"
+            }
+          ],
+          "Plot": "In the 1970s, an undercover Indian spy takes on a deadly mission to expose a covert nuclear weapons program in the heart of Pakistan.",
+          "Language": "English, Hindi - Audio Description, Hindi [Original], Tamil, Telugu",
+          "Awards": "Sidharth Malhotra (“Kapoor & Sons”) stars alongside Rashmika Mandanna (“Pushpa: The Rise”) in this tense action-thriller.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Suspenseful",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVJPAtsfSBR3f2zJ0wAwDDMZDdMsWnCjGCtJtBa4kV4_dO_yUBGCTI3vnannBaUWEKwx_JLphfhf3x1Zsvf0Ve250EhxPhge0LNIjpbYoBZ8uoax5F39zxIahOwyChz2axClaH7yDqfUGFeugcM0lTptdXbG0DKLhFYZPjg8jlQsCi5ncSSdfw.png?r=cb5"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYvgVmzNcHJXS8NGrqqK23RNL4H3Jd1_wvzxYnRkDtzISjDwRa-vD71iKDQD6PkJshlh1dlYZOz5OK6l6W0gT3uTklVZ91aREYbm.jpg?r=6b3"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZAWj4mInZxPD9Jijc_tKECJa3zbl10ftB1c1aTjuPAgA4iWsWD5vitwYsuUlzOhvX2dpIkYOzV4qhe0tKucqmxKUkMBQDYkRW_b.jpg?r=efe"
+            }
+          ],
+          "video": [{ "link": "6Dg-_RpBiBI" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABb6UW5Py1xNKwgl-lvdKzF3b9AK96Lu-lv9V13VpibXRwobpxannmU11cTSvjpLUIoKV9Cz8hGHNk-Kev2gJkr6znvXyJL_sgrixeafJLZr_ET1qKEEsIkP7.jpg?r=db4",
+              "Title": "Trailer: Mission Majnu",
+              "Link": "Gw77Nx4eBMc"
+            },
+            {
+              "id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdDIDcfIJXUaRoePHvBv8VvA4HFJNtguzkMAeZ5V--fzYet9BgLaRmosLsh9iLGHq1raBFrkwASLu1uRMYmbaEvDq90MPega_LwEmSFy8Hi_Io4k_sTMmraQ.jpg?r=f31",
+              "Title": "Teaser: Mission Majnu",
+              "link": "Sb8sasFaRTM"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         },
         {
-          "id": 3,
-          "name": "Josh Duhamel"
+          "id": 81595543,
+          "Title": "Shehzada",
+          "Year": "2023",
+          "Rated": "13+",
+          "Season": "2h 22m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Indian, Hindi-Language Movies, Bollywood Movies, Drama Movies, Comedy Movies, Action & Adventure Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": " Kriti Sanon"
+            },
+            {
+              "id": 2,
+              "name": "Ankur Rathee"
+            },
+            {
+              "id": 3,
+              "name": "Sunny Hinduja"
+            },
+            {
+              "id": 4,
+              "name": "Sunny Hinduja"
+            },
+            {
+              "id": 5,
+              "name": "Sachin Khedekar"
+            },
+            {
+              "id": 6,
+              "name": "Ronit Roy"
+            },
+            {
+              "id": 7,
+              "name": "Manisha Koirala"
+            },
+            {
+              "id": 8,
+              "name": "Paresh Rawal"
+            },
+            {
+              "id": 9,
+              "name": " Kriti Sanon"
+            }
+          ],
+          "Plot": "After realizing he was switched at birth by a conniving father, a rakish Bantu’s life is upended when he becomes the heir to a billionaire.",
+          "Language": "Hindi [Original]",
+          "Awards": "",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUfpbQvLDYIgFKe6Gh0urGBY8emIgfgU6zqs5PM6Vryx6H9XUvJeeaNrdCwByXyMxVGZwAQqp8-jKi1EYkLjSbdblrXc7sxuDByVqTV9ujhu.png?r=aea"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVOEqN8cBgeQZZGLP6q6z5uyYCO-bXZzkrokC3c-HT8YtqwRrnov-cYAAcSh6LwtWR_IxpWPGmCkEZ0zdYtmTbZxlyjiHleaSX3P.jpg?r=a90"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaBxKxdqjvOjXj60_T10DZ_mXqfMCbBWcOst-l7LodpIfL7524FpPfYe7AAI01uvkO2H-s9XgyF6BpWTH2SvJdR_5NX2oIzeK_c2.jpg?r=c88"
+            }
+          ],
+          "video": [{ "link": "DsEec0kvsPk" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfl3m7nMTiwJ0UsZoN1NsFRJgQRJ-SLamkth-SnnecdPXO0-Uy21gGijH5ohqJOgF8Ish5pWCTweM5o_-WSuobrnYI-UQio0AvF8e_tX2zcvT34WreAFUaUK.jpg?r=df5",
+              "Title": " Trailer: Shehzada",
+              "Link": "vbSGPIS2_ao"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         },
         {
-          "id": 4,
-          "name": "Laura Haddock"
+          "id": 80233783,
+          "Title": "Skyscraper",
+          "Year": "2018",
+          "Rated": "13+",
+          "Season": "1h 42m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Dwayne Johnson"
+            },
+            {
+              "id": 2,
+              "name": "Adrian Holmes"
+            },
+            {
+              "id": 3,
+              "name": "Hannah Quinlivan"
+            },
+            {
+              "id": 4,
+              "name": "Noah Cottrell"
+            },
+            {
+              "id": 5,
+              "name": " McKenna Roberts"
+            },
+            {
+              "id": 6,
+              "name": "Pablo Schreiber"
+            },
+            {
+              "id": 7,
+              "name": "Byron Mann"
+            },
+            {
+              "id": 8,
+              "name": "Noah Taylor"
+            },
+            {
+              "id": 9,
+              "name": "Roland Møller"
+            },
+            {
+              "id": 10,
+              "name": "Chin Han"
+            },
+            {
+              "id": 11,
+              "name": " Neve Campbell"
+            }
+          ],
+          "Plot": "When his family becomes trapped after terrorists attack the world's tallest building, a security consultant goes to extreme lengths to try and save them.",
+          "Language": "English - Audio Description, English [Original], Hindi",
+          "Awards": "Dwayne Johnson and Neve Campbell star in this mile-high action thriller.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Suspenseful, Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSfiNgPPJySte0ZnvtAa79K3aTFsfGeiW_LslYeenOiyn16tf16q7xgX1rID8eMzf9H9wn1jtUE5hk9Wb1DSQJftUQYiJ4KV8rsD08UObT9E.png?r=2c1"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRitdE5kSLFG0wbMPL8QIkQ3MAplUiMbSlpWsq0kbCIgjQAN-8ZQ-DgrFYuhqCnd3GkwwQyXfEMckiQxLMgeaAYiTDg07vPwadAo.jpg?r=e3d"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRdffkTGkoE1OwNJ8xZMzSCqiPjA5UDVofyqj_JaLvu1YgrRgtiNVTokMpzYqLaF6MiwuWhDjPiAPxuPPOUfk2JsXAcju_H4FLoQ.jpg?r=17a"
+            }
+          ],
+          "video": [{ "link": "Rnam_wHwVWE" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://c4.wallpaperflare.com/wallpaper/662/159/752/skyscraper-movie-2018-movies-movies-hd-wallpaper-preview.jpg",
+              "Title": "Trailor: Skyscraper",
+              "Link": "t9QePUT-Yt8"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         },
         {
-          "id": 5,
-          "name": "Stanley Tucci"
+          "id": 81198933,
+          "Title": "Morbius",
+          "Year": "2022",
+          "Rated": "16+",
+          "Season": "1h 44m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Sci-Fi Movies, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Jared Leto"
+            },
+            {
+              "id": 2,
+              "name": "Matt Smith"
+            },
+            {
+              "id": 3,
+              "name": "Adria Arjona"
+            },
+            {
+              "id": 4,
+              "name": "Jared Harris"
+            },
+            {
+              "id": 5,
+              "name": "Tyrese Gibson"
+            },
+            {
+              "id": 6,
+              "name": "Al Madrigal"
+            },
+            {
+              "id": 7,
+              "name": "Michael Keaton"
+            },
+            {
+              "id": 8,
+              "name": "Zaris-Angel Hator"
+            },
+            {
+              "id": 9,
+              "name": "Joe Ferrara"
+            },
+            {
+              "id": 10,
+              "name": "Charlie Shotwell"
+            },
+            {
+              "id": 11,
+              "name": " Joseph Esson"
+            }
+          ],
+          "Plot": "A biochemist with a rare blood disease in search of a cure injects himself with a dangerous serum that gives him super strength and a thirst for blood.",
+          "Language": "English - Audio Description, English [Original], Hindi",
+          "Awards": "Oscar winner Jared Leto stars in this film based on the Marvel Comics character alongside Matt Smith, Tyrese Gibson and more.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTy5H-vaSNMqhu9ygmEVbEbIhcBGILBhvjI31MY-5qOOltC1DNLcEMJV6lkMuptiNRjn3rGMxcd4D4GeOKhHDV-LgASGpgPCEpXzEdGtDwAg.png?r=fd3"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVdQO8JweMJwZhMU0XkARlmaDYz0NZAa0saKZrrcbVQxIV9CHKdOnDnkjy9OzZSVE2mlCoQe6LPXdk1bNi-hb1-oshCixQ3Kho_x.jpg?r=c11"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcHuZ-8uWwRm-wH7LTrX7SrW3Q4A67FdVoCWunkPIgpCt2zFYV_dsx63nEIFXxhOaLFmTa24p_ODvnahmznxEbNb_8A0QnIN0mip.jpg?r=c41"
+            }
+          ],
+          "video": [{ "link": "djgDdgcFREA" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWoDdD1T-vtFmXa3y7RtaPl-aNJDPFhu34Fl52uCDqyirnX9mF-tmGKW1XsFXfMAkB5JUJwoArVPIbUIsPe-Qsy3QR07vXq6OAVwLXK4b8RZ3TkNqzG4PBbA.jpg?r=eb3",
+              "Title": "Trailer: Morbius",
+              "Link": "oZ6iiRrz1SY"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         },
         {
-          "id": 6,
-          "name": "John Turturro"
+          "id": 81161626,
+          "Title": "Red Notice",
+          "Year": "2021",
+          "Rated": "13+",
+          "Season": "1h 58m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Crime Movies, Comedy Movies, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Dwayne Johnson"
+            },
+            {
+              "id": 2,
+              "name": "Ryan Reynolds"
+            },
+            {
+              "id": 3,
+              "name": "Gal Gadot"
+            },
+            {
+              "id": 4,
+              "name": "Ritu Arya"
+            },
+            {
+              "id": 5,
+              "name": "Chris Diamantopoulos"
+            }
+          ],
+          "Plot": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead.",
+          "Language": "English - Audio Description, English [Original], Hindi",
+          "Awards": "Dwayne Johnson, Ryan Reynolds and Gal Gadot chase each other around the globe in this fun and funny action adventure.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVo8VEpsn9S738q7DOEesFACztCJpvxnpIrpajVR5LM3hmHwsZVoHVXcdXtWjAdQ3xYmnk-J3h4heJQYBMv9Y_kyILuNO2AZy-394sDrch2S-VsamNrTmzKMTlAUbK7f_I-d9bCVie69PPapHdz7xTbfUYxJv00bDJaG6eKSd-xNntPr4QKh8A.png?r=1b2"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeUEGpvU_BWwg3V0G6Bb_iYxTKE5Cv5cmhgBT-_LXj7yoX_CRcvqEFdAZv5bM18imi135n7pTdjd53NeN9u4Zt4JFlQCpI8l6-m7.jpg?r=f57"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSZABCRGZSmFPb6NXwTszIzn6YoBgG7x-7C5n8JcIWM4YQZi-3ppg4RzF6f-6Hcxap87NJUzUHG41-BXip3ZQAi9HpZxxhDxjRcE.jpg?r=1d3"
+            }
+          ],
+          "video": [{ "link": "QAOwPYAnB6E" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYER1HhJZroqxjHidNs7QLx2IdZklU2mEdyrGnrOhQ6KMIyV85tNu0mAxxmFCZcaqz8CWAJJ0Q9ngYiQhnZ9txNO9AajK7zglv-IUDxvNz904veE-R8FgX9l.jpg?r=010",
+              "Title": "Trailer: Red Notice",
+              "Link": "sGsabVSiPXY"
+            },
+            {
+              "id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQaQFj1zOCT_QVXYqKXfuulX1F0FEzuMFH_8ejyLTyOPH_QocDoc3N2PpcglJx8PTF5INSSUAENQly0AFv--zoK6t-2UkHM4rHpTUn_4HHyy-gJrsPNcpvFm.jpg?r=9f9",
+              "Title": "Teaser: Red Notice",
+              "link": "T6l3mM7AWew"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         },
         {
-          "id": 7,
-          "name": "Isabela Merced"
+          "id": 81183713,
+          "Title": "Godzilla vs. Kong",
+          "Year": "2021",
+          "Rated": "13+",
+          "Season": "1h 53m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Sci-Fi Movies, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Alexander Skarsgård"
+            },
+            {
+              "id": 2,
+              "name": "Millie Bobby Brown"
+            },
+            {
+              "id": 3,
+              "name": "Rebecca Hall"
+            },
+            {
+              "id": 4,
+              "name": "Brian Tyree Henry"
+            },
+            {
+              "id": 5,
+              "name": "Shun Oguri"
+            },
+            {
+              "id": 6,
+              "name": "Eiza González"
+            },
+            {
+              "id": 7,
+              "name": "Julian Dennison"
+            },
+            {
+              "id": 8,
+              "name": "Lance Reddick"
+            },
+            {
+              "id": 9,
+              "name": "Kyle Chandler"
+            },
+            {
+              "id": 10,
+              "name": "Demián Bichir"
+            }
+          ],
+          "Plot": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+          "Language": "English [Original]",
+          "Awards": "Alexander Skarsgård, Rebecca Hall, Millie Bobby Brown and Brian Tyree Henry lead the cast in this epic monster showdown.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVow2WQTNylpbkl4lRuJQpuFhYeND-j9le4j0lNuuWHWG2vlMOaWND3R9qX2w6J3yUDjQ24c81tQ966snmbHkNr-nNrWiv4lsBCIj8EvqYps.png?r=2b8"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSwHNfSsXyLpovJcMDzXgIEvKF3SuKOYUta9J2rF4GPKoHGRFYs5MaX8TxpHYLFJHTHU0uTVfSSFIB-gKT9MedYt1HI9kkkAu_Oq.jpg?r=b47"
+            },
+            {
+              "Id": 2,
+              "url": "https://images.indianexpress.com/2021/03/godzilla-vs-kong-1200-3.jpg"
+            }
+          ],
+          "video": [{ "link": "orc_aGBVh74" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://rogermooresmovienation.files.wordpress.com/2021/03/god.jpg",
+              "Title": "Trailor: Godzilla vs. Kong",
+              "Link": "odM92ap8_c0"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         },
         {
-          "id": 8,
-          "name": "Santiago Cabrera"
+          "id": 80210920,
+          "Title": "The Mother",
+          "Year": "2023",
+          "Rated": "16+",
+          "Season": "1h 57m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Drama Movies, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Jennifer Lopez"
+            },
+            {
+              "id": 2,
+              "name": "Joseph Fiennes"
+            },
+            {
+              "id": 3,
+              "name": "Gael García Bernal"
+            },
+            {
+              "id": 4,
+              "name": "Lucy Paez"
+            },
+            {
+              "id": 5,
+              "name": "Omari Hardwick"
+            },
+            {
+              "id": 6,
+              "name": "Paul Raci"
+            },
+            {
+              "id": 7,
+              "name": "Jesse Garcia"
+            },
+            {
+              "id": 8,
+              "name": "Yvonne Senat Jones"
+            },
+            {
+              "id": 9,
+              "name": "Edie Falco"
+            }
+          ],
+          "Plot": "A military-trained assassin comes out of hiding to protect the daughter she's never met from ruthless criminals gunning for revenge.",
+          "Language": "English - Audio Description, English [Original], Hindi - Audio Description, Hindi",
+          "Awards": "Jennifer Lopez stars in this action-fueled thriller with Joseph Fiennes, Omari Hardwick and Gael García Bernal.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Gritty, Understated, Suspenseful",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABXMInztTrPIarjxjQTxjiNvGIAjLUBGzUsoAQJjTE1VENUe27SbwP3YLi-FmbtrfDTrYmMQcfYyErcVRzK6cLzmwteJs4NpZVeoeVp3lDn_6vRA9glpgeH_wtWFHYpdhzc0laMi9mIHwr3KnlZb3nphp9OrbvHoxbsNzTtAOC0TkjjnOeaydmQ.png?r=f5d"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABaeqx1iAKwZqebo3O5G64niOBNmRP40ZZK2uXsyP79yB2F-dE2DOFRWlKWYAWRQjyiKOzNIZnWLpFGhLm_6SfTUGBv1QIar9_ba8.jpg?r=8b7"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSVghXDiK7Be9t09GDn2ICBe81bp8TXYIRP2XQHXeMntL4Z06Dm8rESm8IriGPYINUa0aoTGccyBiwbqWsjaU8iZlT1iPJtE805v.jpg?r=48c"
+            }
+          ],
+          "video": [{ "link": "" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcu0_FdVXK3CPDdBOuOe7_hWIP9QVGU2W_Ngl1nfIHDf3CU5NBah4SW5tSFD8anDDpLwpLZmWTz8-et6--suduD588fdu58fk6sDL6Ater8Z4uJt64QO0Zm2.jpg?r=99e",
+              "Title": "Trailer: The Mother",
+              "Link": "8BFdFeOS3oM"
+            },
+            {
+              "id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdKwGxd0tzfKkE8cUL3u64-82KjoPOsAln1HLrQ4I7xAvgkszIHF9tbtZcIFrZ0-OC-TzE-BmNP0QbpA4bsP1Ccgvj4RXBp5dyMkc3rXH0bYKkqsxCf0qZiR.jpg?r=0a7",
+              "Title": "Teaser: The Mother",
+              "link": "Awmni5mbyWE"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         },
         {
-          "id": 9,
-          "name": "Tony Hale"
+          "id": 81511779,
+          "Title": "Bullet Train",
+          "Year": "2022",
+          "Rated": "18+",
+          "Season": "2h 6m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Crime Movies, Comedy Movies, Movies Based on Books, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Brad Pitt"
+            },
+            {
+              "id": 2,
+              "name": "Joey King"
+            },
+            {
+              "id": 3,
+              "name": "Aaron Taylor-Johnson"
+            },
+            {
+              "id": 4,
+              "name": "Brian Tyree Henry"
+            },
+            {
+              "id": 5,
+              "name": "Andrew Koji"
+            },
+            {
+              "id": 6,
+              "name": "Hiroyuki Sanada"
+            },
+            {
+              "id": 7,
+              "name": "Michael Shannon"
+            },
+            {
+              "id": 8,
+              "name": "Bad Bunny"
+            },
+            {
+              "id": 9,
+              "name": "Sandra Bullock"
+            },
+            {
+              "id": 10,
+              "name": "Zazie Beetz"
+            },
+            {
+              "id": 11,
+              "name": "Logan Lerman"
+            },
+            {
+              "id": 12,
+              "name": "Masi Oka"
+            },
+            {
+              "id": 13,
+              "name": "Karen Fukuhara"
+            }
+          ],
+          "Plot": "Five assassins board a Japanese bullet train bound for Kyoto and come to discover that their seemingly separate missions are mysteriously linked.",
+          "Language": "English - Audio Description, English [Original], Hindi",
+          "Awards": "Brad Pitt leads a first-class cast featuring Sandra Bullock and co-starring Aaron Taylor-Johnson and Brian Tyree Henry.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Quirky, Feel-Good, Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUlowNL2y4huEoTanbj2tn0DCrTwF6EVM_8awf8ax72zHor4FFgfhI_q6t5VNgQwEHlo6xyW6Mp5TAIEpj1rBLiuTVX3clLg2iLH0_Xmq2R-.png?r=21d"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfybx8sO9Ah50hAiyoEWh1ljO_Hi4-ZXdlhnteko2QioGZ--fCB6nKYejBZsSYdPtX-nEaDp6CAW9cC8IwO9Qm5_3WsH3pn0Dyf4.jpg?r=2e3"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABe--vTsnKq3-Zl9nC5kH1PLMHgx8Zm0s0GqQJGbPZOrWDO7_QTI2zCnb_t2h4Ec9d4vHsus_tDqS9vD6VZLAoJsLKSCA9rmtmalo.jpg?r=e0c"
+            }
+          ],
+          "video": [{ "link": "R_H9JJ4I" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABauqeiM97ToxsVH3o8d73uy376dP0m2WoIsUQBkdphFkZKpTFAy2phFfCQ0kfQ2-qyEv7_lrfAxVp2k-2cNnTazG2KaBRTeB-_5P6UgY89dK5Zbt_K-E3k9j.jpg?r=4e5",
+              "Title": "Trailer: Bullet Train",
+              "Link": "0IOsk2Vlc4o"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         },
         {
-          "id": 10,
-          "name": "Liam Garrigan"
-        },
-        {
-          "id": 11,
-          "name": "Jerrod Carmichael"
-        },
-        {
-          "id": 12,
-          "name": "Mitch Pileggi"
-        }
-      ],
-      "Plot": "After Optimus Prime takes a dark turn, Cade Yeager joins forces with a group of Autobots to stop a villainous plot to destroy Earth.",
-      "Language": "English - Audio Description, English [Original], Hindi",
-      "Awards": "",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSb8bUZ2HUDRe7_S8_h0zahhodHe3KGoSImG5XxW8HPd8dboDjWa0rh5oTHRgtJkUXHtovz31j1dLWfZA5xfSqD9vOc_ZJTMwgbzMmhFRaNb.png?r=159"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXy69CxNf9CQyzgcb4stDDheiqMjUJECvocoCun6aC5eqeLG6EDpZT9zmlJxbsAOHrlkoBOJs3nhwwraVsYqLva5VVGel1_bWq2Q.jpg?r=88e"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVBGa1eYNQZ43v7JmN7k0ppwOTsRKYVp2-sUStAFeHrQuNHvHUWuZ9L3ASf2Z5mdcK2xdfimrzcfsWggADKJt_Mwh6vuye5F56OO.jpg?r=d6b"
-        }
-      ],
-      "video": [{ "link": "XLYAz6yuJOk" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://e1.pxfuel.com/desktop-wallpaper/976/998/desktop-wallpaper-3840x2160-2017-transformers-the-last-knight-movie-backgrounds-and-live-action-films.jpg",
-          "Title": "Trailer: Transformers: The Last Knight",
-          "Link": "6Vtf0MszgP8"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
+          "id": 81267307,
+          "Title": "Mortal Kombat",
+          "Year": "2021",
+          "Rated": "18+",
+          "Season": "1h 50m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Sports Movies, Martial Arts Movies, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Lewis Tan"
+            },
+            {
+              "id": 2,
+              "name": "Jessica McNamee"
+            },
+            {
+              "id": 3,
+              "name": "Josh Lawson"
+            },
+            {
+              "id": 4,
+              "name": "Tadanobu Asano"
+            },
+            {
+              "id": 5,
+              "name": "Hiroyuki Sanada"
+            },
+            {
+              "id": 6,
+              "name": "Mehcad Brooks"
+            },
+            {
+              "id": 7,
+              "name": "Ludi Lin"
+            },
+            {
+              "id": 8,
+              "name": "Chin Han"
+            },
+            {
+              "id": 9,
+              "name": "Joe Taslim"
+            },
+            {
+              "id": 10,
+              "name": "Max Huang"
+            },
+            {
+              "id": 11,
+              "name": "Sisi Stringer"
+            }
+          ],
+          "Plot": "On the brink of being conquered by Outworld, Earthrealm fighters driven by an ancient prophecy must win the final tournament to save humanity.",
+          "Language": "English [Original]",
+          "Awards": "",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Adrenaline Rush",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcHOJX5Tw6C818wzyPJLP5Au_b2bIPFRiO2dIkyuqu3CnQHARhIDJVrc-qwVpba5exsqni_3E_24YnfjUlNcHhNV6BELnblCsh04x4Fab--B.png?r=703"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYtkFZusszoK9Tr1yAAGNhu0JYXC665fPFKLwte5_qEqr_mczitrpQ9HaS6VT1v3ZSqVG18zHFqKtPrdxXH7F6IEmIGf4ggX_iXF.jpg?r=dac"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABY1yVtY9O_g-vMsAYgxHhdAatuLIF4WIvqpODbRHIgdBUjYjFNxamzU4Cg2KePGHyoW5tLJ8ENzo80NGDMeUFYKCpeYSjuU-bJfW.jpg?r=39f"
+            }
+          ],
+          "video": [{ "link": "VwU3SlQ723Q" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/04/mk_mov_000.jpg",
+              "Title": "Trailer: Mortal Kombat",
+              "Link": "NYH2sLid0Zc"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         }
       ]
     },
     {
-      "id": 81633804,
-      "Title": "Mission Majnu",
-      "Year": "2023",
-      "Rated": "16+",
-      "Season": "2h 9m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Indian, Hindi-Language Movies, Bollywood Movies, Military Movies, Action & Adventure Movies, Spy Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Sidharth Malhotra"
-        },
-        {
-          "id": 2,
-          "name": "Kumud Mishra"
-        },
-        {
-          "id": 3,
-          "name": "Rashmika Mandanna"
-        },
-        {
-          "id": 4,
-          "name": "Parmeet Sethi"
-        },
-        {
-          "id": 5,
-          "name": "Sharib Hashmi"
-        }
-      ],
-      "Plot": "In the 1970s, an undercover Indian spy takes on a deadly mission to expose a covert nuclear weapons program in the heart of Pakistan.",
-      "Language": "English, Hindi - Audio Description, Hindi [Original], Tamil, Telugu",
-      "Awards": "Sidharth Malhotra (“Kapoor & Sons”) stars alongside Rashmika Mandanna (“Pushpa: The Rise”) in this tense action-thriller.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Suspenseful",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVJPAtsfSBR3f2zJ0wAwDDMZDdMsWnCjGCtJtBa4kV4_dO_yUBGCTI3vnannBaUWEKwx_JLphfhf3x1Zsvf0Ve250EhxPhge0LNIjpbYoBZ8uoax5F39zxIahOwyChz2axClaH7yDqfUGFeugcM0lTptdXbG0DKLhFYZPjg8jlQsCi5ncSSdfw.png?r=cb5"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYvgVmzNcHJXS8NGrqqK23RNL4H3Jd1_wvzxYnRkDtzISjDwRa-vD71iKDQD6PkJshlh1dlYZOz5OK6l6W0gT3uTklVZ91aREYbm.jpg?r=6b3"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZAWj4mInZxPD9Jijc_tKECJa3zbl10ftB1c1aTjuPAgA4iWsWD5vitwYsuUlzOhvX2dpIkYOzV4qhe0tKucqmxKUkMBQDYkRW_b.jpg?r=efe"
-        }
-      ],
-      "video": [{ "link": "6Dg-_RpBiBI" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABb6UW5Py1xNKwgl-lvdKzF3b9AK96Lu-lv9V13VpibXRwobpxannmU11cTSvjpLUIoKV9Cz8hGHNk-Kev2gJkr6znvXyJL_sgrixeafJLZr_ET1qKEEsIkP7.jpg?r=db4",
-          "Title": "Trailer: Mission Majnu",
-          "Link": "Gw77Nx4eBMc"
-        },
-        {
-          "id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdDIDcfIJXUaRoePHvBv8VvA4HFJNtguzkMAeZ5V--fzYet9BgLaRmosLsh9iLGHq1raBFrkwASLu1uRMYmbaEvDq90MPega_LwEmSFy8Hi_Io4k_sTMmraQ.jpg?r=f31",
-          "Title": "Teaser: Mission Majnu",
-          "link": "Sb8sasFaRTM"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 81595543,
-      "Title": "Shehzada",
-      "Year": "2023",
-      "Rated": "13+",
-      "Season": "2h 22m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Indian, Hindi-Language Movies, Bollywood Movies, Drama Movies, Comedy Movies, Action & Adventure Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": " Kriti Sanon"
-        },
-        {
-          "id": 2,
-          "name": "Ankur Rathee"
-        },
-        {
-          "id": 3,
-          "name": "Sunny Hinduja"
-        },
-        {
-          "id": 4,
-          "name": "Sunny Hinduja"
-        },
-        {
-          "id": 5,
-          "name": "Sachin Khedekar"
-        },
-        {
-          "id": 6,
-          "name": "Ronit Roy"
-        },
-        {
-          "id": 7,
-          "name": "Manisha Koirala"
-        },
-        {
-          "id": 8,
-          "name": "Paresh Rawal"
-        },
-        {
-          "id": 9,
-          "name": " Kriti Sanon"
-        }
-      ],
-      "Plot": "After realizing he was switched at birth by a conniving father, a rakish Bantu’s life is upended when he becomes the heir to a billionaire.",
-      "Language": "Hindi [Original]",
-      "Awards": "",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUfpbQvLDYIgFKe6Gh0urGBY8emIgfgU6zqs5PM6Vryx6H9XUvJeeaNrdCwByXyMxVGZwAQqp8-jKi1EYkLjSbdblrXc7sxuDByVqTV9ujhu.png?r=aea"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVOEqN8cBgeQZZGLP6q6z5uyYCO-bXZzkrokC3c-HT8YtqwRrnov-cYAAcSh6LwtWR_IxpWPGmCkEZ0zdYtmTbZxlyjiHleaSX3P.jpg?r=a90"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaBxKxdqjvOjXj60_T10DZ_mXqfMCbBWcOst-l7LodpIfL7524FpPfYe7AAI01uvkO2H-s9XgyF6BpWTH2SvJdR_5NX2oIzeK_c2.jpg?r=c88"
-        }
-      ],
-      "video": [{ "link": "DsEec0kvsPk" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfl3m7nMTiwJ0UsZoN1NsFRJgQRJ-SLamkth-SnnecdPXO0-Uy21gGijH5ohqJOgF8Ish5pWCTweM5o_-WSuobrnYI-UQio0AvF8e_tX2zcvT34WreAFUaUK.jpg?r=df5",
-          "Title": " Trailer: Shehzada",
-          "Link": "vbSGPIS2_ao"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 80233783,
-      "Title": "Skyscraper",
-      "Year": "2018",
-      "Rated": "13+",
-      "Season": "1h 42m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Dwayne Johnson"
-        },
-        {
-          "id": 2,
-          "name": "Adrian Holmes"
-        },
-        {
-          "id": 3,
-          "name": "Hannah Quinlivan"
-        },
-        {
-          "id": 4,
-          "name": "Noah Cottrell"
-        },
-        {
-          "id": 5,
-          "name": " McKenna Roberts"
-        },
-        {
-          "id": 6,
-          "name": "Pablo Schreiber"
-        },
-        {
-          "id": 7,
-          "name": "Byron Mann"
-        },
-        {
-          "id": 8,
-          "name": "Noah Taylor"
-        },
-        {
-          "id": 9,
-          "name": "Roland Møller"
-        },
-        {
-          "id": 10,
-          "name": "Chin Han"
-        },
-        {
-          "id": 11,
-          "name": " Neve Campbell"
-        }
-      ],
-      "Plot": "When his family becomes trapped after terrorists attack the world's tallest building, a security consultant goes to extreme lengths to try and save them.",
-      "Language": "English - Audio Description, English [Original], Hindi",
-      "Awards": "Dwayne Johnson and Neve Campbell star in this mile-high action thriller.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Suspenseful, Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSfiNgPPJySte0ZnvtAa79K3aTFsfGeiW_LslYeenOiyn16tf16q7xgX1rID8eMzf9H9wn1jtUE5hk9Wb1DSQJftUQYiJ4KV8rsD08UObT9E.png?r=2c1"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRitdE5kSLFG0wbMPL8QIkQ3MAplUiMbSlpWsq0kbCIgjQAN-8ZQ-DgrFYuhqCnd3GkwwQyXfEMckiQxLMgeaAYiTDg07vPwadAo.jpg?r=e3d"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRdffkTGkoE1OwNJ8xZMzSCqiPjA5UDVofyqj_JaLvu1YgrRgtiNVTokMpzYqLaF6MiwuWhDjPiAPxuPPOUfk2JsXAcju_H4FLoQ.jpg?r=17a"
-        }
-      ],
-      "video": [{ "link": "Rnam_wHwVWE" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://c4.wallpaperflare.com/wallpaper/662/159/752/skyscraper-movie-2018-movies-movies-hd-wallpaper-preview.jpg",
-          "Title": "Trailor: Skyscraper",
-          "Link": "t9QePUT-Yt8"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 81198933,
-      "Title": "Morbius",
-      "Year": "2022",
-      "Rated": "16+",
-      "Season": "1h 44m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Sci-Fi Movies, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Jared Leto"
-        },
-        {
-          "id": 2,
-          "name": "Matt Smith"
-        },
-        {
-          "id": 3,
-          "name": "Adria Arjona"
-        },
-        {
-          "id": 4,
-          "name": "Jared Harris"
-        },
-        {
-          "id": 5,
-          "name": "Tyrese Gibson"
-        },
-        {
-          "id": 6,
-          "name": "Al Madrigal"
-        },
-        {
-          "id": 7,
-          "name": "Michael Keaton"
-        },
-        {
-          "id": 8,
-          "name": "Zaris-Angel Hator"
-        },
-        {
-          "id": 9,
-          "name": "Joe Ferrara"
-        },
-        {
-          "id": 10,
-          "name": "Charlie Shotwell"
-        },
-        {
-          "id": 11,
-          "name": " Joseph Esson"
-        }
-      ],
-      "Plot": "A biochemist with a rare blood disease in search of a cure injects himself with a dangerous serum that gives him super strength and a thirst for blood.",
-      "Language": "English - Audio Description, English [Original], Hindi",
-      "Awards": "Oscar winner Jared Leto stars in this film based on the Marvel Comics character alongside Matt Smith, Tyrese Gibson and more.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTy5H-vaSNMqhu9ygmEVbEbIhcBGILBhvjI31MY-5qOOltC1DNLcEMJV6lkMuptiNRjn3rGMxcd4D4GeOKhHDV-LgASGpgPCEpXzEdGtDwAg.png?r=fd3"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVdQO8JweMJwZhMU0XkARlmaDYz0NZAa0saKZrrcbVQxIV9CHKdOnDnkjy9OzZSVE2mlCoQe6LPXdk1bNi-hb1-oshCixQ3Kho_x.jpg?r=c11"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcHuZ-8uWwRm-wH7LTrX7SrW3Q4A67FdVoCWunkPIgpCt2zFYV_dsx63nEIFXxhOaLFmTa24p_ODvnahmznxEbNb_8A0QnIN0mip.jpg?r=c41"
-        }
-      ],
-      "video": [{ "link": "djgDdgcFREA" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWoDdD1T-vtFmXa3y7RtaPl-aNJDPFhu34Fl52uCDqyirnX9mF-tmGKW1XsFXfMAkB5JUJwoArVPIbUIsPe-Qsy3QR07vXq6OAVwLXK4b8RZ3TkNqzG4PBbA.jpg?r=eb3",
-          "Title": "Trailer: Morbius",
-          "Link": "oZ6iiRrz1SY"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 81161626,
-      "Title": "Red Notice",
-      "Year": "2021",
-      "Rated": "13+",
-      "Season": "1h 58m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Crime Movies, Comedy Movies, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Dwayne Johnson"
-        },
-        {
-          "id": 2,
-          "name": "Ryan Reynolds"
-        },
-        {
-          "id": 3,
-          "name": "Gal Gadot"
-        },
-        {
-          "id": 4,
-          "name": "Ritu Arya"
-        },
-        {
-          "id": 5,
-          "name": "Chris Diamantopoulos"
-        }
-      ],
-      "Plot": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead.",
-      "Language": "English - Audio Description, English [Original], Hindi",
-      "Awards": "Dwayne Johnson, Ryan Reynolds and Gal Gadot chase each other around the globe in this fun and funny action adventure.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVo8VEpsn9S738q7DOEesFACztCJpvxnpIrpajVR5LM3hmHwsZVoHVXcdXtWjAdQ3xYmnk-J3h4heJQYBMv9Y_kyILuNO2AZy-394sDrch2S-VsamNrTmzKMTlAUbK7f_I-d9bCVie69PPapHdz7xTbfUYxJv00bDJaG6eKSd-xNntPr4QKh8A.png?r=1b2"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeUEGpvU_BWwg3V0G6Bb_iYxTKE5Cv5cmhgBT-_LXj7yoX_CRcvqEFdAZv5bM18imi135n7pTdjd53NeN9u4Zt4JFlQCpI8l6-m7.jpg?r=f57"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSZABCRGZSmFPb6NXwTszIzn6YoBgG7x-7C5n8JcIWM4YQZi-3ppg4RzF6f-6Hcxap87NJUzUHG41-BXip3ZQAi9HpZxxhDxjRcE.jpg?r=1d3"
-        }
-      ],
-      "video": [{ "link": "QAOwPYAnB6E" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYER1HhJZroqxjHidNs7QLx2IdZklU2mEdyrGnrOhQ6KMIyV85tNu0mAxxmFCZcaqz8CWAJJ0Q9ngYiQhnZ9txNO9AajK7zglv-IUDxvNz904veE-R8FgX9l.jpg?r=010",
-          "Title": "Trailer: Red Notice",
-          "Link": "sGsabVSiPXY"
-        },
-        {
-          "id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQaQFj1zOCT_QVXYqKXfuulX1F0FEzuMFH_8ejyLTyOPH_QocDoc3N2PpcglJx8PTF5INSSUAENQly0AFv--zoK6t-2UkHM4rHpTUn_4HHyy-gJrsPNcpvFm.jpg?r=9f9",
-          "Title": "Teaser: Red Notice",
-          "link": "T6l3mM7AWew"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 81183713,
-      "Title": "Godzilla vs. Kong",
-      "Year": "2021",
-      "Rated": "13+",
-      "Season": "1h 53m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Sci-Fi Movies, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Alexander Skarsgård"
-        },
-        {
-          "id": 2,
-          "name": "Millie Bobby Brown"
-        },
-        {
-          "id": 3,
-          "name": "Rebecca Hall"
-        },
-        {
-          "id": 4,
-          "name": "Brian Tyree Henry"
-        },
-        {
-          "id": 5,
-          "name": "Shun Oguri"
-        },
-        {
-          "id": 6,
-          "name": "Eiza González"
-        },
-        {
-          "id": 7,
-          "name": "Julian Dennison"
-        },
-        {
-          "id": 8,
-          "name": "Lance Reddick"
-        },
-        {
-          "id": 9,
-          "name": "Kyle Chandler"
-        },
-        {
-          "id": 10,
-          "name": "Demián Bichir"
-        }
-      ],
-      "Plot": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
-      "Language": "English [Original]",
-      "Awards": "Alexander Skarsgård, Rebecca Hall, Millie Bobby Brown and Brian Tyree Henry lead the cast in this epic monster showdown.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVow2WQTNylpbkl4lRuJQpuFhYeND-j9le4j0lNuuWHWG2vlMOaWND3R9qX2w6J3yUDjQ24c81tQ966snmbHkNr-nNrWiv4lsBCIj8EvqYps.png?r=2b8"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSwHNfSsXyLpovJcMDzXgIEvKF3SuKOYUta9J2rF4GPKoHGRFYs5MaX8TxpHYLFJHTHU0uTVfSSFIB-gKT9MedYt1HI9kkkAu_Oq.jpg?r=b47"
-        },
-        {
-          "Id": 2,
-          "url": "https://images.indianexpress.com/2021/03/godzilla-vs-kong-1200-3.jpg"
-        }
-      ],
-      "video": [{ "link": "orc_aGBVh74" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://rogermooresmovienation.files.wordpress.com/2021/03/god.jpg",
-          "Title": "Trailor: Godzilla vs. Kong",
-          "Link": "odM92ap8_c0"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 80210920,
-      "Title": "The Mother",
-      "Year": "2023",
-      "Rated": "16+",
-      "Season": "1h 57m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Drama Movies, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Jennifer Lopez"
-        },
-        {
-          "id": 2,
-          "name": "Joseph Fiennes"
-        },
-        {
-          "id": 3,
-          "name": "Gael García Bernal"
-        },
-        {
-          "id": 4,
-          "name": "Lucy Paez"
-        },
-        {
-          "id": 5,
-          "name": "Omari Hardwick"
-        },
-        {
-          "id": 6,
-          "name": "Paul Raci"
-        },
-        {
-          "id": 7,
-          "name": "Jesse Garcia"
-        },
-        {
-          "id": 8,
-          "name": "Yvonne Senat Jones"
-        },
-        {
-          "id": 9,
-          "name": "Edie Falco"
-        }
-      ],
-      "Plot": "A military-trained assassin comes out of hiding to protect the daughter she's never met from ruthless criminals gunning for revenge.",
-      "Language": "English - Audio Description, English [Original], Hindi - Audio Description, Hindi",
-      "Awards": "Jennifer Lopez stars in this action-fueled thriller with Joseph Fiennes, Omari Hardwick and Gael García Bernal.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Gritty, Understated, Suspenseful",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABXMInztTrPIarjxjQTxjiNvGIAjLUBGzUsoAQJjTE1VENUe27SbwP3YLi-FmbtrfDTrYmMQcfYyErcVRzK6cLzmwteJs4NpZVeoeVp3lDn_6vRA9glpgeH_wtWFHYpdhzc0laMi9mIHwr3KnlZb3nphp9OrbvHoxbsNzTtAOC0TkjjnOeaydmQ.png?r=f5d"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABaeqx1iAKwZqebo3O5G64niOBNmRP40ZZK2uXsyP79yB2F-dE2DOFRWlKWYAWRQjyiKOzNIZnWLpFGhLm_6SfTUGBv1QIar9_ba8.jpg?r=8b7"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSVghXDiK7Be9t09GDn2ICBe81bp8TXYIRP2XQHXeMntL4Z06Dm8rESm8IriGPYINUa0aoTGccyBiwbqWsjaU8iZlT1iPJtE805v.jpg?r=48c"
-        }
-      ],
-      "video": [{ "link": "" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcu0_FdVXK3CPDdBOuOe7_hWIP9QVGU2W_Ngl1nfIHDf3CU5NBah4SW5tSFD8anDDpLwpLZmWTz8-et6--suduD588fdu58fk6sDL6Ater8Z4uJt64QO0Zm2.jpg?r=99e",
-          "Title": "Trailer: The Mother",
-          "Link": "8BFdFeOS3oM"
-        },
-        {
-          "id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdKwGxd0tzfKkE8cUL3u64-82KjoPOsAln1HLrQ4I7xAvgkszIHF9tbtZcIFrZ0-OC-TzE-BmNP0QbpA4bsP1Ccgvj4RXBp5dyMkc3rXH0bYKkqsxCf0qZiR.jpg?r=0a7",
-          "Title": "Teaser: The Mother",
-          "link": "Awmni5mbyWE"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 81511779,
-      "Title": "Bullet Train",
-      "Year": "2022",
-      "Rated": "18+",
-      "Season": "2h 6m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Crime Movies, Comedy Movies, Movies Based on Books, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Brad Pitt"
-        },
-        {
-          "id": 2,
-          "name": "Joey King"
-        },
-        {
-          "id": 3,
-          "name": "Aaron Taylor-Johnson"
-        },
-        {
-          "id": 4,
-          "name": "Brian Tyree Henry"
-        },
-        {
-          "id": 5,
-          "name": "Andrew Koji"
-        },
-        {
-          "id": 6,
-          "name": "Hiroyuki Sanada"
-        },
-        {
-          "id": 7,
-          "name": "Michael Shannon"
-        },
-        {
-          "id": 8,
-          "name": "Bad Bunny"
-        },
-        {
-          "id": 9,
-          "name": "Sandra Bullock"
-        },
-        {
-          "id": 10,
-          "name": "Zazie Beetz"
-        },
-        {
-          "id": 11,
-          "name": "Logan Lerman"
-        },
-        {
-          "id": 12,
-          "name": "Masi Oka"
-        },
-        {
-          "id": 13,
-          "name": "Karen Fukuhara"
-        }
-      ],
-      "Plot": "Five assassins board a Japanese bullet train bound for Kyoto and come to discover that their seemingly separate missions are mysteriously linked.",
-      "Language": "English - Audio Description, English [Original], Hindi",
-      "Awards": "Brad Pitt leads a first-class cast featuring Sandra Bullock and co-starring Aaron Taylor-Johnson and Brian Tyree Henry.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Quirky, Feel-Good, Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUlowNL2y4huEoTanbj2tn0DCrTwF6EVM_8awf8ax72zHor4FFgfhI_q6t5VNgQwEHlo6xyW6Mp5TAIEpj1rBLiuTVX3clLg2iLH0_Xmq2R-.png?r=21d"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfybx8sO9Ah50hAiyoEWh1ljO_Hi4-ZXdlhnteko2QioGZ--fCB6nKYejBZsSYdPtX-nEaDp6CAW9cC8IwO9Qm5_3WsH3pn0Dyf4.jpg?r=2e3"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABe--vTsnKq3-Zl9nC5kH1PLMHgx8Zm0s0GqQJGbPZOrWDO7_QTI2zCnb_t2h4Ec9d4vHsus_tDqS9vD6VZLAoJsLKSCA9rmtmalo.jpg?r=e0c"
-        }
-      ],
-      "video": [{ "link": "R_H9JJ4I" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABauqeiM97ToxsVH3o8d73uy376dP0m2WoIsUQBkdphFkZKpTFAy2phFfCQ0kfQ2-qyEv7_lrfAxVp2k-2cNnTazG2KaBRTeB-_5P6UgY89dK5Zbt_K-E3k9j.jpg?r=4e5",
-          "Title": "Trailer: Bullet Train",
-          "Link": "0IOsk2Vlc4o"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 81267307,
-      "Title": "Mortal Kombat",
-      "Year": "2021",
-      "Rated": "18+",
-      "Season": "1h 50m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Sports Movies, Martial Arts Movies, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Lewis Tan"
-        },
-        {
-          "id": 2,
-          "name": "Jessica McNamee"
-        },
-        {
-          "id": 3,
-          "name": "Josh Lawson"
-        },
-        {
-          "id": 4,
-          "name": "Tadanobu Asano"
-        },
-        {
-          "id": 5,
-          "name": "Hiroyuki Sanada"
-        },
-        {
-          "id": 6,
-          "name": "Mehcad Brooks"
-        },
-        {
-          "id": 7,
-          "name": "Ludi Lin"
-        },
-        {
-          "id": 8,
-          "name": "Chin Han"
-        },
-        {
-          "id": 9,
-          "name": "Joe Taslim"
-        },
-        {
-          "id": 10,
-          "name": "Max Huang"
-        },
-        {
-          "id": 11,
-          "name": "Sisi Stringer"
-        }
-      ],
-      "Plot": "On the brink of being conquered by Outworld, Earthrealm fighters driven by an ancient prophecy must win the final tournament to save humanity.",
-      "Language": "English [Original]",
-      "Awards": "",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Adrenaline Rush",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcHOJX5Tw6C818wzyPJLP5Au_b2bIPFRiO2dIkyuqu3CnQHARhIDJVrc-qwVpba5exsqni_3E_24YnfjUlNcHhNV6BELnblCsh04x4Fab--B.png?r=703"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYtkFZusszoK9Tr1yAAGNhu0JYXC665fPFKLwte5_qEqr_mczitrpQ9HaS6VT1v3ZSqVG18zHFqKtPrdxXH7F6IEmIGf4ggX_iXF.jpg?r=dac"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABY1yVtY9O_g-vMsAYgxHhdAatuLIF4WIvqpODbRHIgdBUjYjFNxamzU4Cg2KePGHyoW5tLJ8ENzo80NGDMeUFYKCpeYSjuU-bJfW.jpg?r=39f"
-        }
-      ],
-      "video": [{ "link": "VwU3SlQ723Q" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/04/mk_mov_000.jpg",
-          "Title": "Trailer: Mortal Kombat",
-          "Link": "NYH2sLid0Zc"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    }
-  ],
-
-  "blockbuster_movies": [
-    {
-      "id": 81001887,
-      "Title": "6 Underground",
-      "Year": "2019",
-      "Rated": "18+",
-      "Season": "2h 8m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Ryan Reynolds"
-        },
-        {
-          "id": 2,
-          "name": "Mélanie Laurent"
-        },
-        {
-          "id": 3,
-          "name": "Corey Hawkins"
-        },
-        {
-          "id": 4,
-          "name": "Dave Franco"
-        },
-        {
-          "id": 5,
-          "name": "Adria Arjona"
-        },
-        {
-          "id": 6,
-          "name": "Manuel Garcia-Rulfo"
-        },
-        {
-          "id": 7,
-          "name": "Ben Hardy"
-        },
-        {
-          "id": 8,
-          "name": "Lior Raz"
-        },
-        {
-          "id": 9,
-          "name": "Payman Maadi"
-        },
-        {
-          "id": 10,
-          "name": "Yuri Kolokolnikov"
-        },
-        {
-          "id": 11,
-          "name": "Kim Kold"
-        }
-      ],
-      "Plot": "After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
-      "Language": "English - Audio Description, English [Original], Hindi",
-      "Awards": "Ryan Reynolds leads an international vigilante squad in this adrenaline-propelled action thriller directed by Michael Bay.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Adrenaline Rush",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQQydHV5CYNLKpRyTsVRLXnKvRDmdNCSCGkLEHbovQetT0S11OW5rolp3nvosxqwgHsfXf_t_CKez40MDQwwteDVwNvlypxv-4qHMUcMSdZrxD_1j0J8ANJjH3LQUE2ZSMXvy3D9n4p42G6kSSB5tgcvc2Z40xuMsvRwQQsXii1z8zvHFGg4RA.png?r=00d"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVZ21yEWfoob9ndT_S7ve-9J2krnG9MmfHBp7HabJvakAjuCyLcC4WVbGFYlBevq5EdxL_newcsoMQOa_jaO4GQtUFJbGa1VcMO0.jpg?r=6fd"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABX9CQZerdXaxZk7H-rzI_5F8huTkNT9rnwqjYWaXWLP0jImtwY55otl5YnreoVqTlUn7vDVI47iGQM8EBXczA9zzbWK2DWKjOYg5.jpg?r=1d3"
-        }
-      ],
-      "video": [{ "link": "FZooTF0YqC0" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY3hqKnVdbbCKy1cycO9VurqSv91xz2ZbNqtWCIZr1fLOyEeWnz2it5V-VQJ5oBadfkM3o35OGk8XVpcY4xe3keN81F6nW006-llpVX9Vf_pTJfAkscJToAG.jpg?r=b6e",
-          "Title": "Trailer: 6 Underground",
-          "Link": "YLE85olJjp8"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 80204117,
-      "Title": "Baahubali: The Beginning (Hindi Version)",
-      "Year": "2015",
-      "Rated": "16+",
-      "Season": "2h 38m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Indian, Hindi-Language Movies, Drama Movies, Action & Adventure Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Prabhas"
-        },
-        {
-          "id": 2,
-          "name": "Rana Daggubati"
-        },
-        {
-          "id": 3,
-          "name": "Anushka Shetty"
-        },
-        {
-          "id": 4,
-          "name": "Tamannaah Bhatia"
-        },
-        {
-          "id": 5,
-          "name": "Sathyaraj"
-        },
-        {
-          "id": 6,
-          "name": "Nassar"
-        },
-        {
-          "id": 7,
-          "name": "Ramya Krishnan"
-        },
-        {
-          "id": 8,
-          "name": "Sudeep"
-        }
-      ],
-      "Plot": "Villagers in the kingdom of Mahismati rescue a baby who is destined to embark on a heroic quest in this Hindi version of S.S. Rajamouli's epic.",
-      "Language": "Hindi [Original]",
-      "Awards": "Winner of Best Film at India's National Film Awards. (Tamil, Malayalam, English versions available via search.)",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVLMyBeO_0lc4vIsLubJAm--DqNKZ6-RIGmdRBQ7uA7wQ5Kfz9NZVmaaeFRsfySgoJib56kYmqBKoM37XmsK2EsSQaX5H417sTEssfNM547L.png?r=842"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfKW4kbm8umu72Z5IXbusn23lasrYDpvJuo1xXPbNjC-4U_Kk-E_YcgS7nceDwTJvb6QMHLnBCaNV_XXtYySbXaNP2cS3cNE560N.jpg?r=215"
-        },
-        {
-          "Id": 2,
-          "url": "https://rukminim2.flixcart.com/image/850/1000/jmz7csw0/poster/7/r/k/medium-wall-poster-bahubali-2-the-conclusion-hd-quality-movie-original-imaf9rkxwbzwhw2y.jpeg?q=90"
-        }
-      ],
-      "video": [{ "link": "MJmmaghOH5s" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABXHmXlj8DshQFdxRzNXRJ6I6VYRa-1dvriomkdCLfbSgQBINRi1lOHnGYcl0ManOc2MLYGmkEJIMOB1NRuU4PsfwUsipJcJ0c9E.jpg?r=b52",
-          "Title": "Trailer: Baahubali: The Beginning",
-          "Link": "cKVArxf4duA"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 70127226,
-      "Title": "Knight and Day",
-      "Year": "2010",
-      "Rated": "16+",
-      "Season": "1h 49m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Romantic Comedy Movies, Comedy Movies, Romantic Movies, Action & Adventure Movies, Spy Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Tom Cruise"
-        },
-        {
-          "id": 2,
-          "name": "Cameron Diaz"
-        },
-        {
-          "id": 3,
-          "name": "Peter Sarsgaard"
-        },
-        {
-          "id": 4,
-          "name": "Jordi Mollá"
-        },
-        {
-          "id": 5,
-          "name": "Viola Davis"
-        },
-        {
-          "id": 6,
-          "name": "Paul Dano"
-        },
-        {
-          "id": 7,
-          "name": "Falk Hentschel"
-        },
-        {
-          "id": 8,
-          "name": "Marc Blucas"
-        },
-        {
-          "id": 9,
-          "name": "Lennie Loftin"
-        },
-        {
-          "id": 10,
-          "name": "Maggie Grace"
-        },
-        {
-          "id": 11,
-          "name": "Dale Dye"
-        }
-      ],
-      "Plot": "A woman's airport meet-cute kicks off a wild globe-trotting adventure with a secret agent who might be a keeper — if they can both stay alive.",
-      "Language": "English [Original]",
-      "Awards": "Tom Cruise and Cameron Diaz bring dangerous levels of movie-star charm to this romantic action comedy.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Exciting, Romantic",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYyfZyoicAirZEtGBy0_U10pfWBsh57MQKEYi_seFltfpFWA7ff4VuZLN9z8LYVmjwd0-GO21kWpRIockgbgYEj2st7pfutYCUVDNisN7hzA.png?r=f3f"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZqLijThmnORgMqB_VeJN2amG2u8aEtjOlrc1tv2hdOEwa4_8nlWwhWPxPQ2A9HAYLbyDXOzV08SnAs-9ZufkHXOrRZX54me8Xlc.jpg?r=8e4"
-        },
-        {
-          "Id": 2,
-          "url": "https://rukminim1.flixcart.com/image/850/1000/jn3hocw0/poster/y/4/e/medium-athah-220-gsm-paper-wall-poster-13-19-inches-knight-and-original-imaf9uszmg5k9cxb.jpeg?q=90"
-        }
-      ],
-      "video": [{ "link": "7GjoGyutE_A" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABamVR2cba2atkG0ZN2WF4Vokfb2Ny-vjS7jzbD3EP5kJydj6_LnnaHpb0xuzVaYmlBzji17aUG9OZ5ef0vuctNbSYHa5HV43gGg.jpg?r=54b",
-          "Title": "Trailor: Knight and Day",
-          "Link": "JGPl86DBNNs"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 70254350,
-      "Title": "Chennai Express",
-      "Year": "2013",
-      "Rated": "16+",
-      "Season": "2h 14m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Indian, Hindi-Language Movies, Bollywood Movies, Romantic Comedy Movies, Comedy Movies, Romantic Movies, Action & Adventure Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Shah Rukh Khan"
-        },
-        {
-          "id": 2,
-          "name": "Deepika Padukone"
-        },
-        {
-          "id": 3,
-          "name": "Nikitin Dheer"
-        },
-        {
-          "id": 4,
-          "name": "Satyaraj"
-        },
-        {
-          "id": 5,
-          "name": "Kamini Kaushal"
-        },
-        {
-          "id": 6,
-          "name": "Lekh Tandon"
-        },
-        {
-          "id": 7,
-          "name": "Mukesh Tiwari"
-        }
-      ],
-      "Plot": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
-      "Language": "Hindi [Original]",
-      "Awards": "",
-      "Type": "Comedies",
-      "Response": "True",
-      "This show": "Emotional, Exciting, Romantic",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUIpYOBHaZ3y-AX0RdVmqL5wQg-DqLOJbxCkTtlxwWUlzfpahsvUD8J5XJ7CmVULQAYPkas6amy_-l-YBWDdtrwlVmRPRkQu1r2niCf0gMTD.png?r=a94"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVVKt8L8kcyx60XUg_i65yfh_IhEehiXWtzVOQDz1qvHKO5OZhhARkkpc-B8XrPhrMTPJdnaFsJ5xRC7yowsO3PYSRqkbqTfWaoq.jpg?r=16c"
-        },
-        {
-          "Id": 2,
-          "url": "https://static.toiimg.com/photo/39611457.cms"
-        }
-      ],
-      "video": [{ "link": "ch5MwLNhX5I" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABb1WdVXeqFlvHNtXa3tsJ3zAvDReA7TOSuLA-9tnvAhPEKEVZi_sHcB06HQyGEFDDmV3juqgMethiJ_ilVdNfmni-_Om2e3xIQQ.jpg?r=281",
-          "Title": "Trailor: Chennai Express",
-          "Link": "rARol7Dk2zo"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 81280035,
-      "Title": "Luther: The Fallen Sun",
-      "Year": "2023",
-      "Rated": "18+",
-      "Season": "2h 10m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Crime Movies, Drama Movies, Mystery Movies, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Idris Elba"
-        },
-        {
-          "id": 2,
-          "name": "Cynthia Erivo"
-        },
-        {
-          "id": 3,
-          "name": "Andy Serkis"
-        },
-        {
-          "id": 4,
-          "name": "Dermot Crowley"
-        },
-        {
-          "id": 5,
-          "name": "Thomas Coombes"
-        },
-        {
-          "id": 6,
-          "name": "Hattie Morahan"
-        },
-        {
-          "id": 7,
-          "name": "Lauryn Ajufo"
-        },
-        {
-          "id": 8,
-          "name": "Vincent Regan"
-        }
-      ],
-      "Plot": "Haunted by an unsolved murder, brilliant but disgraced London police detective John Luther breaks out of prison to hunt down a sadistic serial killer.",
-      "Language": "English - Audio Description, English [Original], Hindi - Audio Description, Hindi",
-      "Awards": "Idris Elba slips back into his signature overcoat for the iconic role that won him a Golden Globe and four Emmy nominations.",
-      "Type": "Thrillers",
-      "Response": "True",
-      "This show": "Ominous, Gritty, Dark",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfY58n5abIugYyz8whBrRb9QJNllboN74BCb83sOIjiKLg16qZBt_L9uIIwmuqe_8FxsspGefP1aPfMIeCYKz14Y65152ElFyvad6cXZB-UMpDrnS3mzBLEgIhsXHB4FHQ_6V0jaFWgzjn5ek_czzI3Ed7cp-Id-ydVbMbX3NTpPzEh84qGpGA.png?r=001"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcpSlZPWy_73kJJS88QFGYdGNn-4aUhLEY0iIdXXDBwReKvhF0Ti0LeO4zg51Ycvg4Pe5l_JnMjDuqUzDefoJVrRvSv0fKNLwM2b.jpg?r=966"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRi_KRmoqmxR3Wid18lm3GUp5kiU9zRL8_iXV29OVE0o3O_gTYB-glL6r1_hV72IUIsYLQse6eqWuAiyO1Tp3xBILhoOdCNs8hko.jpg?r=9a6"
-        }
-      ],
-      "video": [{ "link": "ers_M68k" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWmqDB1iB6iPN2mEj3aIHBnVsl5mlDQG3TN3CPgPVkuzqMon62VePYuZf2fPpLLrRHnRdla--xzETdqhTGyeslFyPTSSzrxfqD3eFae4uhFHvau0cybhEP4i.jpg?r=a70",
-          "Title": "Trailor: Luther: The Fallen Sun",
-          "Link": "EGK5qtXuc1Q"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 70021641,
-      "Title": "Mr. & Mrs. Smith",
-      "Year": "2005",
-      "Rated": "18+",
-      "Season": "2h",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Romantic Comedy Movies, Crime Movies, Comedy Movies, Romantic Movies, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Brad Pitt"
-        },
-        {
-          "id": 2,
-          "name": "Angelina Jolie"
-        },
-        {
-          "id": 3,
-          "name": "Vince Vaughn"
-        },
-        {
-          "id": 4,
-          "name": "Adam Brody"
-        },
-        {
-          "id": 5,
-          "name": "Kerry Washington"
-        },
-        {
-          "id": 6,
-          "name": "Keith David"
-        },
-        {
-          "id": 7,
-          "name": "Chris Weitz"
-        },
-        {
-          "id": 8,
-          "name": "Rachael Huntley"
-        },
-        {
-          "id": 9,
-          "name": "Michelle Monaghan"
-        },
-        {
-          "id": 10,
-          "name": "Stephanie March"
-        }
-      ],
-      "Plot": "Married life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
-      "Language": "English [Original]",
-      "Awards": "Brad Pitt and Angelina Jolie star as a pair of killers in this Doug Liman-directed film with Vince Vaughn.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Exciting, Romantic",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcjhhBc81ogQWTK7aUBHBRlve0iezezwqxAW9u4SuqqypR4NuypEyemz1msoxhOo8tMi9WRVjx_KF0gEwEEak2jtiMSckr4g0iIKNcvHhpx_.png?r=343"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQNYFEISljzpUIdDWcEutvs7MobzFMeOqsdeYQ0vNiz1agYaikYsXJlRsS5QrTlyT7Ehy1L8KaomuKtBjuIYWRDk_yyOGbR9mCX5.jpg?r=1da"
-        },
-        {
-          "Id": 2,
-          "url": "https://i.ytimg.com/vi/TWB_icm5M38/maxresdefault.jpg"
-        }
-      ],
-      "video": [{ "link": "QTnSdB15HNs" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQcHvn0LMmU8lUj7g9KW_JBC8VM6FIdIS0MaPiOAEkDZX43PvTuIz2caDlU57EcsmUcMNQ2O1-fCkMn2gM9DI0PwyFwRUKUEPFc.jpg?r=07b",
-          "Title": "Trailor: Mr. & Mrs. Smith",
-          "Link": "8Z2zSuTz-SY"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 80192187,
-      "Title": "Triple Frontier",
-      "Year": "2019",
-      "Rated": "18+",
-      "Season": "2h 5m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Crime Movies, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Ben Affleck"
-        },
-        {
-          "id": 2,
-          "name": "Oscar Isaac"
-        },
-        {
-          "id": 3,
-          "name": "Charlie Hunnam"
-        },
-        {
-          "id": 4,
-          "name": "Pedro Pascal"
-        },
-        {
-          "id": 5,
-          "name": "Garrett Hedlund"
-        },
-        {
-          "id": 6,
-          "name": "Adria Arjona"
-        }
-      ],
-      "Plot": "Loyalties are tested when five former special forces operatives reunite to steal a drug lord's fortune, unleashing a chain of unintended consequences.",
-      "Language": "English - Audio Description, English [Original], Hindi",
-      "Awards": "Starring Ben Affleck, Oscar Isaac and Charlie Hunnam. Directed by Oscar nominee J.C. Chandor ('A Most Violent Year').",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Gritty, Suspenseful, Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABb9txA9_cgb6lKOVX4LohOpw5Yhw74-Hvq9vPRh57_ytiCGsUqnMEVyY9_Hn9ncnRxkHbiIziC5KBKiENllBrLFxO5T5Zc7f8PqQ_oFRLGOMkp5Xy8E1Ng5X9JNCFTDNZMpK2VaqYBoaeQ-GbDQ3Q5WFqqAh_fsGhVmTT0m1fqNAZbIfJQerSg.png?r=673"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc2wqCMBh9a6jKaElIFaP6M8gxlY7ygoT5d0xvxRTa3ynexOG_suxwGs7uORVl47schjTHmz_Au8E8A2eal5ngJlgrfJQysveCDU.jpg?r=d62"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABS3MMD_uAQ9Mbiq18qooZqCmOMOKHJc4igFSYRjWX6muEnJprEYvFviO5H797hFjPxgS-bx8vST2vNgbclZnzXCfu8VMgw9Ge57C.jpg?r=f9d"
-        }
-      ],
-      "video": [{ "link": "" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeWC-icSZa4AgK00J6SL-TqdiAS_TwbuKSMG4s_UwPsMCLCL9-yLTFRmPiw-rprWmknlu8JqQBEDuaM2XCLWHxQJ86wgphf5m2w1UHn9uBINYnw9Z_M9kgRQ.jpg?r=318",
-          "Title": "Trailor: Triple Frontier",
-          "Link": "Fo3yRLLrXQA"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 81414001,
-      "Title": "The Suicide Squad",
-      "Year": "2021",
-      "Rated": "18+",
-      "Season": "2h 12m ",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Comedy Movies, Action & Adventure Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Margot Robbie"
-        },
-        {
-          "id": 2,
-          "name": "Idris Elba"
-        },
-        {
-          "id": 3,
-          "name": "John Cena"
-        },
-        {
-          "id": 4,
-          "name": "Joel Kinnaman"
-        },
-        {
-          "id": 5,
-          "name": "Viola Davis"
-        },
-        {
-          "id": 6,
-          "name": "Sylvester Stallone"
-        },
-        {
-          "id": 7,
-          "name": "David Dastmalchian"
-        },
-        {
-          "id": 8,
-          "name": "Daniela Melchior"
-        },
-        {
-          "id": 9,
-          "name": "Michael Rooker"
-        },
-        {
-          "id": 10,
-          "name": "Jai Courtney"
-        },
-        {
-          "id": 11,
-          "name": "Peter Capaldi"
-        },
-        {
-          "id": 12,
-          "name": "Alice Braga"
-        },
-        {
-          "id": 13,
-          "name": "Pete Davidson"
-        },
-        {
-          "id": 14,
-          "name": "Taika Waititi"
-        },
-        {
-          "id": 15,
-          "name": "Storm Reid"
-        }
-      ],
-      "Plot": "A dysfunctional squad of supervillains infiltrates a remote island on a mission to destroy a secret government experiment.",
-      "Language": "English [Original]",
-      "Awards": "Margot Robbie, Idris Elba, John Cena, Joel Kinnaman and Viola Davis lead James Gunn's blockbuster comic book adaptation.",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYXwOMRzkHc-so8gfy1CasteIVQapMd17rndbVv9Wo9GPJIqmz1SDLyB72AWkGqLxZd9S9IunSd48uuygmmWKryRNT63VQRDGna163Rnt0V0.png?r=98e"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABaW9ldjoudqivuYzgO5gL0KgqzWRZ59CQ2m6mT7Ans8vP26MWE0MbcXdqChwsavxyVJVp6rofG3P9NT2Kz2UDuijTTqiOdAOPQMh.jpg?r=dd9"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdn7o1U7Mh0ZdD1reTE60pkMTdGnIk5pGvchylcPv4dDsN8T_RJgwvO11l_oOhv_VX9LubZLqiZa-jq1AUN2AIBZbWaFYYdcGI-w.jpg?r=cfd"
-        }
-      ],
-      "video": [{ "link": "SF0w2B6DNUE" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdL2Hi_KpVxXh3NbU0QZwlYXY-jz-3nFVITTZS_JqV9ojZnRH3P0t8jRE8eT05xqS2wLdHXVDXZKVyBAjH0hrGt1euO3A0n1dnk.jpg?r=ca8",
-          "Title": "Trailer: The Suicide Squad",
-          "Link": "JuDLepNa7hw"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 80218506,
-      "Title": "The Woman King",
-      "Year": "2022",
-      "Rated": "16+",
-      "Season": "2h 15m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Military Movies, Drama Movies, Period Pieces, Action & Adventure Movies, Social Issue Dramas, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Viola Davis"
-        },
-        {
-          "id": 2,
-          "name": "Thuso Mbedu"
-        },
-        {
-          "id": 3,
-          "name": "Lashana Lynch"
-        },
-        {
-          "id": 4,
-          "name": "Sheila Atim"
-        },
-        {
-          "id": 5,
-          "name": "John Boyega"
-        },
-        {
-          "id": 6,
-          "name": "Hero Fiennes Tiffin"
-        },
-        {
-          "id": 7,
-          "name": "Jayme Lawson"
-        },
-        {
-          "id": 8,
-          "name": "Adrienne Warren"
-        },
-        {
-          "id": 9,
-          "name": "Adrienne Warren"
-        },
-        {
-          "id": 10,
-          "name": "Jordan Bolger"
-        },
-        {
-          "id": 11,
-          "name": "Jimmy Odukoya"
-        }
-      ],
-      "Plot": "In the 1820s, a battle-tested general trains a new generation of female warriors to protect their kingdom from a powerful foe. Inspired by true events.",
-      "Language": "English - Audio Description, English [Original], Hindi",
-      "Awards": "",
-      "Type": "Action",
-      "Response": "True",
-      "This show": "Adrenaline Rush",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVARFcxutRjqBLAtYy6CwQsEvva71kh455IxP2fVXp5zEfayDTTqVHeKLslWpLhZxcMWSa6sE3MUABSh8adsaW7QF84hqZ2_4LNy6HiXRhT2.png?r=471"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTQp5OHq9_kJD37143XxV5Ygy8mhzigsHcXmms7Sl4z2_rj7BMnunamRuucoTwQp_Sw31KEQaGEWT9mm1f1snSkBKqK0ipRPDW4m.jpg?r=d9e"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWvA7W3DHAc61Bdc8ey14M96c68gTHOVNTDyoD0ythd5Mu_JqK4UHwzjkg-8lXWi6cJCHZ9_a3uQkXhyYAMTMyOazH5TEuPO5kyL.jpg?r=506"
-        }
-      ],
-      "video": [{ "link": "i4FHxrCoEmM" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZD0ku8nwMmB5dl5ADtJ7EThDaonoGc4jPWjVh04aqKpvCD-J3ZCVtLDVuYjrRdk29TibdSa7gGrJVi-krPutlBTFuKFkjOKyo6N9x3kNDsQT09ttIw6qAU5.jpg?r=56b",
-          "Title": "Trailer: The Woman King",
-          "Link": "3RDaPV_rJ1Y"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        }
-      ]
-    },
-    {
-      "id": 80218885,
-      "Title": "The School for Good and Evil",
-      "Year": "2022",
-      "Rated": "13+",
-      "Season": "2h 29m",
-      "Creators": [
-        {
-          "id": 1,
-          "name": ""
-        }
-      ],
-      "genres": "Family Movies, Teen Movies, US Movies",
-      "cast": [
-        {
-          "id": 1,
-          "name": "Sophia Anne Caruso"
-        },
-        {
-          "id": 2,
-          "name": "Sofia Wylie"
-        },
-        {
-          "id": 3,
-          "name": "Charlize Theron"
-        },
-        {
-          "id": 4,
-          "name": "Kerry Washington"
-        },
-        {
-          "id": 5,
-          "name": "Laurence Fishburne"
-        },
-        {
-          "id": 6,
-          "name": "Michelle Yeoh"
-        },
-        {
-          "id": 7,
-          "name": "Jamie Flatters"
-        },
-        {
-          "id": 8,
-          "name": "Kit Young"
-        },
-        {
-          "id": 9,
-          "name": "Peter Serafinowicz"
-        },
-        {
-          "id": 10,
-          "name": "Rob Delaney"
-        },
-        {
-          "id": 11,
-          "name": "Mark Heap"
-        },
-        {
-          "id": 12,
-          "name": "Mark Heap"
-        },
-        {
-          "id": 13,
-          "name": "Rachel Bloom"
-        }
-      ],
-      "Plot": "Best friends Sophie and Agatha find their bond put to the test when they're whisked away to a magical school for future fairy-tale heroes and villains.",
-      "Language": "English - Audio Description, English [Original], Hindi",
-      "Awards": "From director Paul Feig comes an epic tale of action, adventure and friendship based on Soman Chainani's bestselling books.",
-      "Type": "Fantasy",
-      "Response": "True",
-      "This show": "Quirky, Exciting",
-      "logoImage": {
-        "Id": 1,
-        "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABT7RHUyWDR-OIA4GlY-WxnIwn665Ak5gVZV3aWI_UbNaUZI_iWrw3d5oTw30M17fRYBQl2MyW9ex0keL-adu5EVRWVLtgWB0gt1wGtpOTCNPLmqdwA1BDn8T266gJ9UWFZJqJ2Xgs00iJk_DG2lU0idNWIIMZiLUFOpaFPkyHLiR9uDwz_AJXQ.png?r=340"
-      },
-      "backgroundImage": [
-        {
-          "Id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTxqum3-_DgPFz4LpqLtb2FIg-hhXRSd_b4oEThUWz5-RDaCKSaO7w-3KgTTbQ-iQo5R54wQlvkR0qDs1d5Pnu_ViOeDBOFY8uqW.jpg?r=61d"
-        },
-        {
-          "Id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcJOPydKdBtrK2xiLzYBRxfGRmAlsT9LvPVTW-7JNnDzvhEM0TA5YdjdTDXxJRZmMhxZYoPwqXKGxuydJqgW_73m46_UiQvfRJin.jpg?r=026"
-        }
-      ],
-      "video": [{ "link": "W__uSFQGrco" }],
-      "Trailers": [
-        {
-          "id": 1,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ-ImTrC_0tZdwXh_xXkaEfBJ0buJjUM8YGyb3PPwWWHeTv8gIllCjaeN8StspCOAXUzYBJ84G-NbHmsedZ2bHjuvvG-Xt1Tq1TmUBHBupUqM8X112owcnN5.jpg?r=f8e",
-          "Title": "Trailer: The School for Good and Evil",
-          "Link": "xbtqbjEYzzM"
-        },
-        {
-          "id": 2,
-          "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfY2g-vAlUIyqt7ZUqgB91hR-IX7HP9Ty0wSSsvNhd8MrNzaG7SNn9KnQcScXz96p48M1FE7KvlgsUyyzvFn8AwGh3TG71TCUHMvhaA-BG-5VrHVeXwKrnNi.jpg?r=829",
-          "Title": "Teaser: The School for Good and Evil",
-          "link": "nchh-qezCOI"
-        }
-      ],
-      "Episode": [
-        {
-          "id": 1,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 3,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 4,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 5,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 6,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 7,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
-        },
-        {
-          "id": 8,
-          "url": "",
-          "Title": "",
-          "Runtime": "",
-          "Plot": ""
+      "blockbuster_movies": [
+        {
+          "id": 81001887,
+          "Title": "6 Underground",
+          "Year": "2019",
+          "Rated": "18+",
+          "Season": "2h 8m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Ryan Reynolds"
+            },
+            {
+              "id": 2,
+              "name": "Mélanie Laurent"
+            },
+            {
+              "id": 3,
+              "name": "Corey Hawkins"
+            },
+            {
+              "id": 4,
+              "name": "Dave Franco"
+            },
+            {
+              "id": 5,
+              "name": "Adria Arjona"
+            },
+            {
+              "id": 6,
+              "name": "Manuel Garcia-Rulfo"
+            },
+            {
+              "id": 7,
+              "name": "Ben Hardy"
+            },
+            {
+              "id": 8,
+              "name": "Lior Raz"
+            },
+            {
+              "id": 9,
+              "name": "Payman Maadi"
+            },
+            {
+              "id": 10,
+              "name": "Yuri Kolokolnikov"
+            },
+            {
+              "id": 11,
+              "name": "Kim Kold"
+            }
+          ],
+          "Plot": "After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+          "Language": "English - Audio Description, English [Original], Hindi",
+          "Awards": "Ryan Reynolds leads an international vigilante squad in this adrenaline-propelled action thriller directed by Michael Bay.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Adrenaline Rush",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQQydHV5CYNLKpRyTsVRLXnKvRDmdNCSCGkLEHbovQetT0S11OW5rolp3nvosxqwgHsfXf_t_CKez40MDQwwteDVwNvlypxv-4qHMUcMSdZrxD_1j0J8ANJjH3LQUE2ZSMXvy3D9n4p42G6kSSB5tgcvc2Z40xuMsvRwQQsXii1z8zvHFGg4RA.png?r=00d"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVZ21yEWfoob9ndT_S7ve-9J2krnG9MmfHBp7HabJvakAjuCyLcC4WVbGFYlBevq5EdxL_newcsoMQOa_jaO4GQtUFJbGa1VcMO0.jpg?r=6fd"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABX9CQZerdXaxZk7H-rzI_5F8huTkNT9rnwqjYWaXWLP0jImtwY55otl5YnreoVqTlUn7vDVI47iGQM8EBXczA9zzbWK2DWKjOYg5.jpg?r=1d3"
+            }
+          ],
+          "video": [{ "link": "FZooTF0YqC0" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY3hqKnVdbbCKy1cycO9VurqSv91xz2ZbNqtWCIZr1fLOyEeWnz2it5V-VQJ5oBadfkM3o35OGk8XVpcY4xe3keN81F6nW006-llpVX9Vf_pTJfAkscJToAG.jpg?r=b6e",
+              "Title": "Trailer: 6 Underground",
+              "Link": "YLE85olJjp8"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
+        },
+        {
+          "id": 80204117,
+          "Title": "Baahubali: The Beginning (Hindi Version)",
+          "Year": "2015",
+          "Rated": "16+",
+          "Season": "2h 38m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Indian, Hindi-Language Movies, Drama Movies, Action & Adventure Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Prabhas"
+            },
+            {
+              "id": 2,
+              "name": "Rana Daggubati"
+            },
+            {
+              "id": 3,
+              "name": "Anushka Shetty"
+            },
+            {
+              "id": 4,
+              "name": "Tamannaah Bhatia"
+            },
+            {
+              "id": 5,
+              "name": "Sathyaraj"
+            },
+            {
+              "id": 6,
+              "name": "Nassar"
+            },
+            {
+              "id": 7,
+              "name": "Ramya Krishnan"
+            },
+            {
+              "id": 8,
+              "name": "Sudeep"
+            }
+          ],
+          "Plot": "Villagers in the kingdom of Mahismati rescue a baby who is destined to embark on a heroic quest in this Hindi version of S.S. Rajamouli's epic.",
+          "Language": "Hindi [Original]",
+          "Awards": "Winner of Best Film at India's National Film Awards. (Tamil, Malayalam, English versions available via search.)",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVLMyBeO_0lc4vIsLubJAm--DqNKZ6-RIGmdRBQ7uA7wQ5Kfz9NZVmaaeFRsfySgoJib56kYmqBKoM37XmsK2EsSQaX5H417sTEssfNM547L.png?r=842"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfKW4kbm8umu72Z5IXbusn23lasrYDpvJuo1xXPbNjC-4U_Kk-E_YcgS7nceDwTJvb6QMHLnBCaNV_XXtYySbXaNP2cS3cNE560N.jpg?r=215"
+            },
+            {
+              "Id": 2,
+              "url": "https://rukminim2.flixcart.com/image/850/1000/jmz7csw0/poster/7/r/k/medium-wall-poster-bahubali-2-the-conclusion-hd-quality-movie-original-imaf9rkxwbzwhw2y.jpeg?q=90"
+            }
+          ],
+          "video": [{ "link": "MJmmaghOH5s" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABXHmXlj8DshQFdxRzNXRJ6I6VYRa-1dvriomkdCLfbSgQBINRi1lOHnGYcl0ManOc2MLYGmkEJIMOB1NRuU4PsfwUsipJcJ0c9E.jpg?r=b52",
+              "Title": "Trailer: Baahubali: The Beginning",
+              "Link": "cKVArxf4duA"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
+        },
+        {
+          "id": 70127226,
+          "Title": "Knight and Day",
+          "Year": "2010",
+          "Rated": "16+",
+          "Season": "1h 49m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Romantic Comedy Movies, Comedy Movies, Romantic Movies, Action & Adventure Movies, Spy Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Tom Cruise"
+            },
+            {
+              "id": 2,
+              "name": "Cameron Diaz"
+            },
+            {
+              "id": 3,
+              "name": "Peter Sarsgaard"
+            },
+            {
+              "id": 4,
+              "name": "Jordi Mollá"
+            },
+            {
+              "id": 5,
+              "name": "Viola Davis"
+            },
+            {
+              "id": 6,
+              "name": "Paul Dano"
+            },
+            {
+              "id": 7,
+              "name": "Falk Hentschel"
+            },
+            {
+              "id": 8,
+              "name": "Marc Blucas"
+            },
+            {
+              "id": 9,
+              "name": "Lennie Loftin"
+            },
+            {
+              "id": 10,
+              "name": "Maggie Grace"
+            },
+            {
+              "id": 11,
+              "name": "Dale Dye"
+            }
+          ],
+          "Plot": "A woman's airport meet-cute kicks off a wild globe-trotting adventure with a secret agent who might be a keeper — if they can both stay alive.",
+          "Language": "English [Original]",
+          "Awards": "Tom Cruise and Cameron Diaz bring dangerous levels of movie-star charm to this romantic action comedy.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Exciting, Romantic",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYyfZyoicAirZEtGBy0_U10pfWBsh57MQKEYi_seFltfpFWA7ff4VuZLN9z8LYVmjwd0-GO21kWpRIockgbgYEj2st7pfutYCUVDNisN7hzA.png?r=f3f"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZqLijThmnORgMqB_VeJN2amG2u8aEtjOlrc1tv2hdOEwa4_8nlWwhWPxPQ2A9HAYLbyDXOzV08SnAs-9ZufkHXOrRZX54me8Xlc.jpg?r=8e4"
+            },
+            {
+              "Id": 2,
+              "url": "https://rukminim1.flixcart.com/image/850/1000/jn3hocw0/poster/y/4/e/medium-athah-220-gsm-paper-wall-poster-13-19-inches-knight-and-original-imaf9uszmg5k9cxb.jpeg?q=90"
+            }
+          ],
+          "video": [{ "link": "7GjoGyutE_A" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABamVR2cba2atkG0ZN2WF4Vokfb2Ny-vjS7jzbD3EP5kJydj6_LnnaHpb0xuzVaYmlBzji17aUG9OZ5ef0vuctNbSYHa5HV43gGg.jpg?r=54b",
+              "Title": "Trailor: Knight and Day",
+              "Link": "JGPl86DBNNs"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
+        },
+        {
+          "id": 70254350,
+          "Title": "Chennai Express",
+          "Year": "2013",
+          "Rated": "16+",
+          "Season": "2h 14m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Indian, Hindi-Language Movies, Bollywood Movies, Romantic Comedy Movies, Comedy Movies, Romantic Movies, Action & Adventure Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Shah Rukh Khan"
+            },
+            {
+              "id": 2,
+              "name": "Deepika Padukone"
+            },
+            {
+              "id": 3,
+              "name": "Nikitin Dheer"
+            },
+            {
+              "id": 4,
+              "name": "Satyaraj"
+            },
+            {
+              "id": 5,
+              "name": "Kamini Kaushal"
+            },
+            {
+              "id": 6,
+              "name": "Lekh Tandon"
+            },
+            {
+              "id": 7,
+              "name": "Mukesh Tiwari"
+            }
+          ],
+          "Plot": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+          "Language": "Hindi [Original]",
+          "Awards": "",
+          "Type": "Comedies",
+          "Response": "True",
+          "This show": "Emotional, Exciting, Romantic",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUIpYOBHaZ3y-AX0RdVmqL5wQg-DqLOJbxCkTtlxwWUlzfpahsvUD8J5XJ7CmVULQAYPkas6amy_-l-YBWDdtrwlVmRPRkQu1r2niCf0gMTD.png?r=a94"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVVKt8L8kcyx60XUg_i65yfh_IhEehiXWtzVOQDz1qvHKO5OZhhARkkpc-B8XrPhrMTPJdnaFsJ5xRC7yowsO3PYSRqkbqTfWaoq.jpg?r=16c"
+            },
+            {
+              "Id": 2,
+              "url": "https://static.toiimg.com/photo/39611457.cms"
+            }
+          ],
+          "video": [{ "link": "ch5MwLNhX5I" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABb1WdVXeqFlvHNtXa3tsJ3zAvDReA7TOSuLA-9tnvAhPEKEVZi_sHcB06HQyGEFDDmV3juqgMethiJ_ilVdNfmni-_Om2e3xIQQ.jpg?r=281",
+              "Title": "Trailor: Chennai Express",
+              "Link": "rARol7Dk2zo"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
+        },
+        {
+          "id": 81280035,
+          "Title": "Luther: The Fallen Sun",
+          "Year": "2023",
+          "Rated": "18+",
+          "Season": "2h 10m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Crime Movies, Drama Movies, Mystery Movies, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Idris Elba"
+            },
+            {
+              "id": 2,
+              "name": "Cynthia Erivo"
+            },
+            {
+              "id": 3,
+              "name": "Andy Serkis"
+            },
+            {
+              "id": 4,
+              "name": "Dermot Crowley"
+            },
+            {
+              "id": 5,
+              "name": "Thomas Coombes"
+            },
+            {
+              "id": 6,
+              "name": "Hattie Morahan"
+            },
+            {
+              "id": 7,
+              "name": "Lauryn Ajufo"
+            },
+            {
+              "id": 8,
+              "name": "Vincent Regan"
+            }
+          ],
+          "Plot": "Haunted by an unsolved murder, brilliant but disgraced London police detective John Luther breaks out of prison to hunt down a sadistic serial killer.",
+          "Language": "English - Audio Description, English [Original], Hindi - Audio Description, Hindi",
+          "Awards": "Idris Elba slips back into his signature overcoat for the iconic role that won him a Golden Globe and four Emmy nominations.",
+          "Type": "Thrillers",
+          "Response": "True",
+          "This show": "Ominous, Gritty, Dark",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfY58n5abIugYyz8whBrRb9QJNllboN74BCb83sOIjiKLg16qZBt_L9uIIwmuqe_8FxsspGefP1aPfMIeCYKz14Y65152ElFyvad6cXZB-UMpDrnS3mzBLEgIhsXHB4FHQ_6V0jaFWgzjn5ek_czzI3Ed7cp-Id-ydVbMbX3NTpPzEh84qGpGA.png?r=001"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcpSlZPWy_73kJJS88QFGYdGNn-4aUhLEY0iIdXXDBwReKvhF0Ti0LeO4zg51Ycvg4Pe5l_JnMjDuqUzDefoJVrRvSv0fKNLwM2b.jpg?r=966"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRi_KRmoqmxR3Wid18lm3GUp5kiU9zRL8_iXV29OVE0o3O_gTYB-glL6r1_hV72IUIsYLQse6eqWuAiyO1Tp3xBILhoOdCNs8hko.jpg?r=9a6"
+            }
+          ],
+          "video": [{ "link": "ers_M68k" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWmqDB1iB6iPN2mEj3aIHBnVsl5mlDQG3TN3CPgPVkuzqMon62VePYuZf2fPpLLrRHnRdla--xzETdqhTGyeslFyPTSSzrxfqD3eFae4uhFHvau0cybhEP4i.jpg?r=a70",
+              "Title": "Trailor: Luther: The Fallen Sun",
+              "Link": "EGK5qtXuc1Q"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
+        },
+        {
+          "id": 70021641,
+          "Title": "Mr. & Mrs. Smith",
+          "Year": "2005",
+          "Rated": "18+",
+          "Season": "2h",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Romantic Comedy Movies, Crime Movies, Comedy Movies, Romantic Movies, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Brad Pitt"
+            },
+            {
+              "id": 2,
+              "name": "Angelina Jolie"
+            },
+            {
+              "id": 3,
+              "name": "Vince Vaughn"
+            },
+            {
+              "id": 4,
+              "name": "Adam Brody"
+            },
+            {
+              "id": 5,
+              "name": "Kerry Washington"
+            },
+            {
+              "id": 6,
+              "name": "Keith David"
+            },
+            {
+              "id": 7,
+              "name": "Chris Weitz"
+            },
+            {
+              "id": 8,
+              "name": "Rachael Huntley"
+            },
+            {
+              "id": 9,
+              "name": "Michelle Monaghan"
+            },
+            {
+              "id": 10,
+              "name": "Stephanie March"
+            }
+          ],
+          "Plot": "Married life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
+          "Language": "English [Original]",
+          "Awards": "Brad Pitt and Angelina Jolie star as a pair of killers in this Doug Liman-directed film with Vince Vaughn.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Exciting, Romantic",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcjhhBc81ogQWTK7aUBHBRlve0iezezwqxAW9u4SuqqypR4NuypEyemz1msoxhOo8tMi9WRVjx_KF0gEwEEak2jtiMSckr4g0iIKNcvHhpx_.png?r=343"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQNYFEISljzpUIdDWcEutvs7MobzFMeOqsdeYQ0vNiz1agYaikYsXJlRsS5QrTlyT7Ehy1L8KaomuKtBjuIYWRDk_yyOGbR9mCX5.jpg?r=1da"
+            },
+            {
+              "Id": 2,
+              "url": "https://i.ytimg.com/vi/TWB_icm5M38/maxresdefault.jpg"
+            }
+          ],
+          "video": [{ "link": "QTnSdB15HNs" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQcHvn0LMmU8lUj7g9KW_JBC8VM6FIdIS0MaPiOAEkDZX43PvTuIz2caDlU57EcsmUcMNQ2O1-fCkMn2gM9DI0PwyFwRUKUEPFc.jpg?r=07b",
+              "Title": "Trailor: Mr. & Mrs. Smith",
+              "Link": "8Z2zSuTz-SY"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
+        },
+        {
+          "id": 80192187,
+          "Title": "Triple Frontier",
+          "Year": "2019",
+          "Rated": "18+",
+          "Season": "2h 5m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Crime Movies, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Ben Affleck"
+            },
+            {
+              "id": 2,
+              "name": "Oscar Isaac"
+            },
+            {
+              "id": 3,
+              "name": "Charlie Hunnam"
+            },
+            {
+              "id": 4,
+              "name": "Pedro Pascal"
+            },
+            {
+              "id": 5,
+              "name": "Garrett Hedlund"
+            },
+            {
+              "id": 6,
+              "name": "Adria Arjona"
+            }
+          ],
+          "Plot": "Loyalties are tested when five former special forces operatives reunite to steal a drug lord's fortune, unleashing a chain of unintended consequences.",
+          "Language": "English - Audio Description, English [Original], Hindi",
+          "Awards": "Starring Ben Affleck, Oscar Isaac and Charlie Hunnam. Directed by Oscar nominee J.C. Chandor ('A Most Violent Year').",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Gritty, Suspenseful, Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABb9txA9_cgb6lKOVX4LohOpw5Yhw74-Hvq9vPRh57_ytiCGsUqnMEVyY9_Hn9ncnRxkHbiIziC5KBKiENllBrLFxO5T5Zc7f8PqQ_oFRLGOMkp5Xy8E1Ng5X9JNCFTDNZMpK2VaqYBoaeQ-GbDQ3Q5WFqqAh_fsGhVmTT0m1fqNAZbIfJQerSg.png?r=673"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc2wqCMBh9a6jKaElIFaP6M8gxlY7ygoT5d0xvxRTa3ynexOG_suxwGs7uORVl47schjTHmz_Au8E8A2eal5ngJlgrfJQysveCDU.jpg?r=d62"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABS3MMD_uAQ9Mbiq18qooZqCmOMOKHJc4igFSYRjWX6muEnJprEYvFviO5H797hFjPxgS-bx8vST2vNgbclZnzXCfu8VMgw9Ge57C.jpg?r=f9d"
+            }
+          ],
+          "video": [{ "link": "" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeWC-icSZa4AgK00J6SL-TqdiAS_TwbuKSMG4s_UwPsMCLCL9-yLTFRmPiw-rprWmknlu8JqQBEDuaM2XCLWHxQJ86wgphf5m2w1UHn9uBINYnw9Z_M9kgRQ.jpg?r=318",
+              "Title": "Trailor: Triple Frontier",
+              "Link": "Fo3yRLLrXQA"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
+        },
+        {
+          "id": 81414001,
+          "Title": "The Suicide Squad",
+          "Year": "2021",
+          "Rated": "18+",
+          "Season": "2h 12m ",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Comedy Movies, Action & Adventure Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Margot Robbie"
+            },
+            {
+              "id": 2,
+              "name": "Idris Elba"
+            },
+            {
+              "id": 3,
+              "name": "John Cena"
+            },
+            {
+              "id": 4,
+              "name": "Joel Kinnaman"
+            },
+            {
+              "id": 5,
+              "name": "Viola Davis"
+            },
+            {
+              "id": 6,
+              "name": "Sylvester Stallone"
+            },
+            {
+              "id": 7,
+              "name": "David Dastmalchian"
+            },
+            {
+              "id": 8,
+              "name": "Daniela Melchior"
+            },
+            {
+              "id": 9,
+              "name": "Michael Rooker"
+            },
+            {
+              "id": 10,
+              "name": "Jai Courtney"
+            },
+            {
+              "id": 11,
+              "name": "Peter Capaldi"
+            },
+            {
+              "id": 12,
+              "name": "Alice Braga"
+            },
+            {
+              "id": 13,
+              "name": "Pete Davidson"
+            },
+            {
+              "id": 14,
+              "name": "Taika Waititi"
+            },
+            {
+              "id": 15,
+              "name": "Storm Reid"
+            }
+          ],
+          "Plot": "A dysfunctional squad of supervillains infiltrates a remote island on a mission to destroy a secret government experiment.",
+          "Language": "English [Original]",
+          "Awards": "Margot Robbie, Idris Elba, John Cena, Joel Kinnaman and Viola Davis lead James Gunn's blockbuster comic book adaptation.",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYXwOMRzkHc-so8gfy1CasteIVQapMd17rndbVv9Wo9GPJIqmz1SDLyB72AWkGqLxZd9S9IunSd48uuygmmWKryRNT63VQRDGna163Rnt0V0.png?r=98e"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABaW9ldjoudqivuYzgO5gL0KgqzWRZ59CQ2m6mT7Ans8vP26MWE0MbcXdqChwsavxyVJVp6rofG3P9NT2Kz2UDuijTTqiOdAOPQMh.jpg?r=dd9"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdn7o1U7Mh0ZdD1reTE60pkMTdGnIk5pGvchylcPv4dDsN8T_RJgwvO11l_oOhv_VX9LubZLqiZa-jq1AUN2AIBZbWaFYYdcGI-w.jpg?r=cfd"
+            }
+          ],
+          "video": [{ "link": "SF0w2B6DNUE" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdL2Hi_KpVxXh3NbU0QZwlYXY-jz-3nFVITTZS_JqV9ojZnRH3P0t8jRE8eT05xqS2wLdHXVDXZKVyBAjH0hrGt1euO3A0n1dnk.jpg?r=ca8",
+              "Title": "Trailer: The Suicide Squad",
+              "Link": "JuDLepNa7hw"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
+        },
+        {
+          "id": 80218506,
+          "Title": "The Woman King",
+          "Year": "2022",
+          "Rated": "16+",
+          "Season": "2h 15m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Military Movies, Drama Movies, Period Pieces, Action & Adventure Movies, Social Issue Dramas, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Viola Davis"
+            },
+            {
+              "id": 2,
+              "name": "Thuso Mbedu"
+            },
+            {
+              "id": 3,
+              "name": "Lashana Lynch"
+            },
+            {
+              "id": 4,
+              "name": "Sheila Atim"
+            },
+            {
+              "id": 5,
+              "name": "John Boyega"
+            },
+            {
+              "id": 6,
+              "name": "Hero Fiennes Tiffin"
+            },
+            {
+              "id": 7,
+              "name": "Jayme Lawson"
+            },
+            {
+              "id": 8,
+              "name": "Adrienne Warren"
+            },
+            {
+              "id": 9,
+              "name": "Adrienne Warren"
+            },
+            {
+              "id": 10,
+              "name": "Jordan Bolger"
+            },
+            {
+              "id": 11,
+              "name": "Jimmy Odukoya"
+            }
+          ],
+          "Plot": "In the 1820s, a battle-tested general trains a new generation of female warriors to protect their kingdom from a powerful foe. Inspired by true events.",
+          "Language": "English - Audio Description, English [Original], Hindi",
+          "Awards": "",
+          "Type": "Action",
+          "Response": "True",
+          "This show": "Adrenaline Rush",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVARFcxutRjqBLAtYy6CwQsEvva71kh455IxP2fVXp5zEfayDTTqVHeKLslWpLhZxcMWSa6sE3MUABSh8adsaW7QF84hqZ2_4LNy6HiXRhT2.png?r=471"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTQp5OHq9_kJD37143XxV5Ygy8mhzigsHcXmms7Sl4z2_rj7BMnunamRuucoTwQp_Sw31KEQaGEWT9mm1f1snSkBKqK0ipRPDW4m.jpg?r=d9e"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWvA7W3DHAc61Bdc8ey14M96c68gTHOVNTDyoD0ythd5Mu_JqK4UHwzjkg-8lXWi6cJCHZ9_a3uQkXhyYAMTMyOazH5TEuPO5kyL.jpg?r=506"
+            }
+          ],
+          "video": [{ "link": "i4FHxrCoEmM" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZD0ku8nwMmB5dl5ADtJ7EThDaonoGc4jPWjVh04aqKpvCD-J3ZCVtLDVuYjrRdk29TibdSa7gGrJVi-krPutlBTFuKFkjOKyo6N9x3kNDsQT09ttIw6qAU5.jpg?r=56b",
+              "Title": "Trailer: The Woman King",
+              "Link": "3RDaPV_rJ1Y"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
+        },
+        {
+          "id": 80218885,
+          "Title": "The School for Good and Evil",
+          "Year": "2022",
+          "Rated": "13+",
+          "Season": "2h 29m",
+          "Creators": [
+            {
+              "id": 1,
+              "name": ""
+            }
+          ],
+          "genres": "Family Movies, Teen Movies, US Movies",
+          "cast": [
+            {
+              "id": 1,
+              "name": "Sophia Anne Caruso"
+            },
+            {
+              "id": 2,
+              "name": "Sofia Wylie"
+            },
+            {
+              "id": 3,
+              "name": "Charlize Theron"
+            },
+            {
+              "id": 4,
+              "name": "Kerry Washington"
+            },
+            {
+              "id": 5,
+              "name": "Laurence Fishburne"
+            },
+            {
+              "id": 6,
+              "name": "Michelle Yeoh"
+            },
+            {
+              "id": 7,
+              "name": "Jamie Flatters"
+            },
+            {
+              "id": 8,
+              "name": "Kit Young"
+            },
+            {
+              "id": 9,
+              "name": "Peter Serafinowicz"
+            },
+            {
+              "id": 10,
+              "name": "Rob Delaney"
+            },
+            {
+              "id": 11,
+              "name": "Mark Heap"
+            },
+            {
+              "id": 12,
+              "name": "Mark Heap"
+            },
+            {
+              "id": 13,
+              "name": "Rachel Bloom"
+            }
+          ],
+          "Plot": "Best friends Sophie and Agatha find their bond put to the test when they're whisked away to a magical school for future fairy-tale heroes and villains.",
+          "Language": "English - Audio Description, English [Original], Hindi",
+          "Awards": "From director Paul Feig comes an epic tale of action, adventure and friendship based on Soman Chainani's bestselling books.",
+          "Type": "Fantasy",
+          "Response": "True",
+          "This show": "Quirky, Exciting",
+          "logoImage": {
+            "Id": 1,
+            "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABT7RHUyWDR-OIA4GlY-WxnIwn665Ak5gVZV3aWI_UbNaUZI_iWrw3d5oTw30M17fRYBQl2MyW9ex0keL-adu5EVRWVLtgWB0gt1wGtpOTCNPLmqdwA1BDn8T266gJ9UWFZJqJ2Xgs00iJk_DG2lU0idNWIIMZiLUFOpaFPkyHLiR9uDwz_AJXQ.png?r=340"
+          },
+          "backgroundImage": [
+            {
+              "Id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTxqum3-_DgPFz4LpqLtb2FIg-hhXRSd_b4oEThUWz5-RDaCKSaO7w-3KgTTbQ-iQo5R54wQlvkR0qDs1d5Pnu_ViOeDBOFY8uqW.jpg?r=61d"
+            },
+            {
+              "Id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcJOPydKdBtrK2xiLzYBRxfGRmAlsT9LvPVTW-7JNnDzvhEM0TA5YdjdTDXxJRZmMhxZYoPwqXKGxuydJqgW_73m46_UiQvfRJin.jpg?r=026"
+            }
+          ],
+          "video": [{ "link": "W__uSFQGrco" }],
+          "Trailers": [
+            {
+              "id": 1,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ-ImTrC_0tZdwXh_xXkaEfBJ0buJjUM8YGyb3PPwWWHeTv8gIllCjaeN8StspCOAXUzYBJ84G-NbHmsedZ2bHjuvvG-Xt1Tq1TmUBHBupUqM8X112owcnN5.jpg?r=f8e",
+              "Title": "Trailer: The School for Good and Evil",
+              "Link": "xbtqbjEYzzM"
+            },
+            {
+              "id": 2,
+              "url": "https://occ-0-3652-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfY2g-vAlUIyqt7ZUqgB91hR-IX7HP9Ty0wSSsvNhd8MrNzaG7SNn9KnQcScXz96p48M1FE7KvlgsUyyzvFn8AwGh3TG71TCUHMvhaA-BG-5VrHVeXwKrnNi.jpg?r=829",
+              "Title": "Teaser: The School for Good and Evil",
+              "link": "nchh-qezCOI"
+            }
+          ],
+          "Episode": [
+            {
+              "id": 1,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 2,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 3,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 4,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 5,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 6,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 7,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            },
+            {
+              "id": 8,
+              "url": "",
+              "Title": "",
+              "Runtime": "",
+              "Plot": ""
+            }
+          ]
         }
       ]
     }
