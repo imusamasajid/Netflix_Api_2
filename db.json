@@ -1,5 +1,5 @@
 {
-  "action-movies": [
+  "action_movies": [
     {
       "id": 80164399,
       "Title": "Transformers: The Last Knight",
@@ -1434,7 +1434,7 @@
     }
   ],
 
-  "blockbuster-movies": [
+  "blockbuster_movies": [
     {
       "id": 81001887,
       "Title": "6 Underground",
