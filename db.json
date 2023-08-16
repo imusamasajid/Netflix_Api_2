@@ -6,7 +6,7 @@
       "Year": "2017",
       "Rated": "13+",
       "Season": "2h 35m",
-      "Creators": [
+      "creators": [
         {
           "id": 1,
           "name": ""
@@ -2870,6 +2870,217 @@
           "Plot": ""
         }
       ]
+    }
+  ],
+  "titles":[
+    {
+      "availability": {
+        "isPlayable": true,
+        "availabilityDate": "September 14",
+        "availabilityStartTime": 1600066800000,
+        "unplayableCause": null
+      },
+      "inRemindMeList": false,
+      "queue": {
+        "available": true,
+        "inQueue": false
+      },
+      "summary": {
+        "type": "movie",
+        "id": 70090072,
+        "isOriginal": false
+      },
+      "jawSummary": {
+        "trackIds": {
+          "videoId": 70090072,
+          "trackId_jaw": 14277281,
+          "trackId_jawEpisode": 14277283,
+          "trackId_jawTrailer": 14277282,
+          "trackId": 14277281
+        },
+        "tags": [
+          {
+            "id": 100032,
+            "name": "Bittersweet"
+          },
+          {
+            "id": 100039,
+            "name": "Emotional"
+          },
+          {
+            "id": 100052,
+            "name": "Romantic"
+          }
+        ],
+        "cast": [
+          {
+            "id": 30036410,
+            "name": "Maricel Soriano"
+          },
+          {
+            "id": 30038890,
+            "name": "Aga Muhlach"
+          },
+          {
+            "id": 30036394,
+            "name": "Angelica Panganiban"
+          },
+          {
+            "id": 30036489,
+            "name": "Dante Rivero"
+          },
+          {
+            "id": 20051976,
+            "name": "Chin Chin Gutierrez"
+          },
+          {
+            "id": 30033836,
+            "name": "Bobby Andrews"
+          },
+          {
+            "id": 30087204,
+            "name": "TJ Trinidad"
+          },
+          {
+            "id": 30040973,
+            "name": "Baron Geisler"
+          },
+          {
+            "id": 30040981,
+            "name": "John Arcilla"
+          },
+          {
+            "id": 30036465,
+            "name": "Gerald Madrid"
+          }
+        ],
+        "creators": [],
+        "directors": [
+          {
+            "id": 30036400,
+            "name": "Maryo J. De los Reyes"
+          }
+        ],
+        "writers": [
+          {
+            "id": 50040378,
+            "name": "Vanessa R. Valdez"
+          }
+        ],
+        "genres": [
+          {
+            "id": 81422106,
+            "name": "Filipino"
+          },
+          {
+            "id": 5763,
+            "name": "Drama Movies"
+          },
+          {
+            "id": 8883,
+            "name": "Romantic Movies"
+          }
+        ],
+        "availability": {
+          "isPlayable": true,
+          "availabilityDate": "September 14",
+          "availabilityStartTime": 1600066800000,
+          "unplayableCause": null
+        },
+        "contextualSynopsis": {
+          "text": "Self-made millionaire Ian thinks he's found happiness when he marries caring Joanna, but his love is put to the test when he meets stewardess Karyn.",
+          "evidenceKey": "web_synopsis|70090072_INFORMATIVE|en|_IFD_"
+        },
+        "currentContextualSynopsis": {
+          "text": "Self-made millionaire Ian thinks he's found happiness when he marries caring Joanna, but his love is put to the test when he meets stewardess Karyn.",
+          "evidenceKey": "web_synopsis|70090072_INFORMATIVE|en|_IFD_"
+        },
+        "maturity": {
+          "rating": {
+            "value": "TV-14",
+            "maturityDescription": "Parents strongly cautioned. May not be suitable for ages under 14.",
+            "specificRatingReason": "language, sex",
+            "maturityLevel": 90,
+            "board": "US TV",
+            "boardId": 10,
+            "ratingId": 137,
+            "reasons": [
+              {
+                "id": 7426,
+                "levelDescription": null,
+                "reasonDescription": "language"
+              },
+              {
+                "id": 7417,
+                "levelDescription": null,
+                "reasonDescription": "sex"
+              }
+            ]
+          }
+        },
+        "id": 70090072,
+        "type": "movie",
+        "isOriginal": false,
+        "videoId": 70090072,
+        "requestId": "45f532e2-449e-4386-9789-760fe1e7377b-218350084",
+        "userRatingRequestId": "45f532e2-449e-4386-9789-760fe1e7377b-218350084",
+        "title": "A Love Story",
+        "copyright": null,
+        "releaseYear": 2007,
+        "watched": false,
+        "hasAudioDescription": false,
+        "synopsis": "Self-made millionaire Ian thinks he's found happiness when he marries caring Joanna, but his love is put to the test when he meets stewardess Karyn.",
+        "synopsisRegular": "Self-made millionaire Ian thinks he's found happiness when he marries caring Joanna, but his love is put to the test when he meets stewardess Karyn.",
+        "hasSensitiveMetaData": false,
+        "delivery": {
+          "has3D": false,
+          "hasHD": true,
+          "hasUltraHD": false,
+          "hasHDR": false,
+          "hasDolbyVision": false,
+          "hasDolbyAtmos": false,
+          "has51Audio": false,
+          "quality": "HD"
+        },
+        "titleMaturity": {
+          "level": 90
+        },
+        "broadcaster": {
+          "broadcasterName": null,
+          "broadcastDate": 2007
+        },
+        "trailerSummary": {
+          "length": 0
+        },
+        "supplementalMessageIcon": "REGULAR",
+        "runtime": 7043,
+        "videoMerch": {
+          "videoId": 70090072,
+          "id": 81048920,
+          "start": 0,
+          "computeId": "browse|81048920|en-TR|_DEF_"
+        },
+        "logoImage": {
+          "videoId": 70090072,
+          "url": "https://occ-0-3933-116.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABUHcVAEWc3rMncmhOHoCFKXqOuOUej0gLNp8iLX__VJ7SEJicBouB3PaDiosb-eL1tANVmkE9dGfsAJVNL68wGhr0fyCU-chSNYOMXXsyv4.webp?r=98d",
+          "type": "LOGO_BRANDED_HORIZONTAL",
+          "width": 625,
+          "height": 250,
+          "extension": "webp",
+          "size": "_LOGO_BRANDED_HORIZONTAL",
+          "imageKey": "LOGO_BRANDED_HORIZONTAL|6981b0b0-f49d-11e8-b330-129686c8ec64|en"
+        },
+        "backgroundImage": {
+          "videoId": 70090072,
+          "url": "https://occ-0-3933-116.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdtZl1ZUeCi987JzCv4aVt5Gb2hJK_9SlgHGmZ3uIKV3aJm16SSXz8Aj-NdlyRsx6iqytyP3KWyWTLTYh1wm2bLZKSycn60GMNQL.webp?r=3eb",
+          "width": 848,
+          "height": 477,
+          "extension": "webp",
+          "size": 480,
+          "focalPoint": "{\"x\":0.4263,\"y\":0.606}",
+          "imageKey": "StoryArt|6d452150-f49d-11e8-9d1c-0a120b85595e|en"
+        }
+      }
     }
   ]
 }
